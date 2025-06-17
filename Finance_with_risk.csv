@@ -1,0 +1,1001 @@
+borrower_id,age,gender,education,marital_status,num_dependents,residence_type,income,employment_status,loan_amount,loan_term,interest_rate,credit_score,debt_to_income_ratio,existing_loan_balance,previous_loans,previous_default,loan_purpose,monthly_repayment,risk
+93810,27,Male,Master,Married,1,Rent,0,Unemployed,127397,48,3.16,655,0.24,142475,5,0,Medical expenses,2989.58,High
+36062,65,Female,Bachelor,Widowed,4,Own,89729,Employed,361240,36,6.49,771,0.26,66443,3,0,Debt consolidation,11988.15,Low
+59797,26,Female,Master,Divorced,0,Own,12045,Unemployed,60328,60,4.47,690,0.32,104800,5,0,Debt consolidation,1230.19,High
+16006,62,Male,Master,Single,1,Rent,78217,Self-Employed,268858,60,7.17,760,0.27,64921,3,0,Medical expenses,6087.39,Low
+93227,30,Male,Bachelor,Widowed,3,Own,0,Unemployed,139733,48,7.21,699,0.21,18414,3,1,Car purchase,3750.67,High
+18675,33,Female,Bachelor,Widowed,3,Own,43679,Employed,136603,36,6.72,734,0.25,163245,4,1,Car purchase,4559.5,Medium
+38746,28,Female,High School,Single,0,Rent,12621,Unemployed,128172,36,4.92,688,0.4,148704,3,0,Debt consolidation,4085.84,High
+99353,54,Female,Master,Single,2,Own,69735,Employed,100850,60,7.38,716,0.39,56832,5,0,Car purchase,2301.06,High
+93748,52,Male,Bachelor,Divorced,1,Rent,15310,Unemployed,52552,36,7.65,669,0.25,73143,5,0,Debt consolidation,1794.8,High
+73699,24,Male,Bachelor,Widowed,4,Rent,47290,Self-Employed,210923,36,7.64,748,0.35,62730,3,1,Car purchase,7201.85,Medium
+67422,53,Female,High School,Married,1,Rent,61378,Self-Employed,245207,36,5.94,700,0.21,175439,1,0,Debt consolidation,8025.08,Medium
+14117,41,Male,Bachelor,Divorced,5,Own,67669,Employed,134684,60,7.68,736,0.32,73700,4,1,Home improvement,3106.71,Medium
+22363,26,Female,Master,Widowed,3,Own,0,Unemployed,57944,48,6.64,656,0.25,59862,5,1,Home improvement,1527.79,High
+65296,31,Female,PhD,Married,0,Own,0,Unemployed,135477,60,7.18,655,0.39,71965,2,1,Education,3068.55,High
+73092,33,Female,High School,Married,3,Rent,58690,Self-Employed,219277,48,5.12,746,0.4,155691,4,0,Home improvement,5503.85,High
+48890,33,Male,High School,Divorced,0,Rent,0,Unemployed,57455,60,3.4,661,0.21,27815,2,1,Debt consolidation,1120.37,High
+84668,35,Male,High School,Widowed,5,Own,56693,Self-Employed,182361,36,4.33,708,0.33,88642,4,1,Debt consolidation,5723.6,Medium
+11220,49,Male,High School,Married,4,Own,61436,Employed,118033,36,4.85,710,0.29,152401,3,0,Medical expenses,3755.74,Medium
+49240,62,Male,Bachelor,Divorced,0,Rent,0,Unemployed,85697,48,6.02,695,0.27,190223,3,1,Car purchase,2215.27,High
+16658,25,Female,Master,Single,0,Own,35438,Employed,84335,36,6.71,685,0.34,157038,1,0,Debt consolidation,2814.21,High
+29536,54,Male,Master,Married,3,Rent,60202,Employed,195591,36,7.49,713,0.34,184832,1,1,Medical expenses,6653.9,Medium
+63264,59,Male,Bachelor,Married,1,Own,51754,Employed,187080,48,7.01,747,0.36,79941,2,0,Education,4990.36,High
+15075,50,Male,Bachelor,Widowed,2,Own,54609,Employed,106203,60,3.97,721,0.26,28198,3,1,Medical expenses,2121.4,Medium
+62386,63,Female,High School,Single,2,Rent,0,Unemployed,64208,60,5.17,696,0.36,124398,5,0,Education,1346.76,High
+85574,32,Female,High School,Widowed,0,Rent,64132,Self-Employed,118343,60,7.6,739,0.26,42669,3,1,Education,2721.89,Medium
+52753,45,Female,Bachelor,Married,3,Own,12851,Unemployed,103225,60,7.17,669,0.26,122692,5,1,Education,2337.19,High
+67905,48,Male,PhD,Married,5,Rent,86890,Self-Employed,324025,60,6.1,755,0.36,71569,3,0,Home improvement,7047.54,High
+29313,21,Male,Bachelor,Widowed,4,Rent,43580,Self-Employed,150970,60,6.48,731,0.28,48684,1,0,Education,3331.4,Medium
+38683,31,Female,High School,Married,0,Own,50225,Employed,239233,60,5.98,748,0.38,170603,5,1,Medical expenses,5179.39,High
+68446,30,Female,PhD,Divorced,1,Own,0,Unemployed,85992,48,3.39,668,0.25,98040,3,0,Home improvement,2034.43,High
+29769,34,Female,Bachelor,Married,0,Own,60842,Self-Employed,242242,48,5.08,713,0.37,112099,5,0,Medical expenses,6072.2,High
+59857,50,Male,Master,Divorced,3,Own,0,Unemployed,113993,36,4.36,681,0.21,98114,4,0,Education,3580.65,High
+26728,59,Male,PhD,Single,0,Own,96809,Employed,271031,36,3.25,774,0.27,129196,3,1,Education,8262.68,Medium
+46471,46,Female,High School,Widowed,0,Rent,77347,Self-Employed,320431,36,6.91,791,0.21,18134,2,0,Debt consolidation,10746.01,Low
+91439,29,Male,Bachelor,Widowed,5,Rent,13571,Unemployed,141680,48,6.83,660,0.32,198313,1,0,Car purchase,3758.06,High
+24168,57,Male,Master,Widowed,3,Rent,78803,Employed,331040,60,4.21,794,0.35,189374,5,0,Medical expenses,6678.73,Medium
+15383,42,Female,Master,Single,4,Own,77838,Employed,260115,48,3.53,773,0.33,130517,2,1,Home improvement,6184.23,Medium
+78386,61,Female,PhD,Widowed,3,Own,115817,Self-Employed,214355,36,4.39,778,0.25,131820,5,1,Car purchase,6738.49,Medium
+13761,51,Female,Bachelor,Widowed,1,Own,82304,Self-Employed,223310,60,6.51,767,0.31,145430,2,0,Home improvement,4933.29,Medium
+63271,51,Male,PhD,Widowed,3,Rent,59283,Employed,158090,48,6.46,719,0.33,106736,4,1,Education,4144.59,Medium
+82140,41,Female,PhD,Divorced,2,Own,53953,Employed,150484,48,3.6,734,0.39,190922,2,0,Home improvement,3586.54,High
+73464,37,Female,High School,Married,2,Rent,55879,Self-Employed,179237,36,6.54,708,0.25,24293,5,1,Home improvement,5955.65,Medium
+93606,51,Male,High School,Divorced,3,Own,82328,Self-Employed,198329,36,4.26,780,0.22,27129,4,1,Debt consolidation,6213.21,Medium
+85631,60,Male,Bachelor,Married,4,Own,56265,Employed,131051,60,6.82,738,0.32,172114,2,1,Education,2928.99,Medium
+68028,39,Female,Master,Single,4,Rent,55496,Employed,155318,48,6.3,710,0.25,154701,1,0,Debt consolidation,4051.21,Medium
+63545,48,Female,Master,Single,1,Own,14632,Unemployed,59329,60,4.17,666,0.36,173855,5,0,Education,1194.98,High
+25043,54,Male,Bachelor,Divorced,1,Rent,50873,Employed,180638,60,6.74,736,0.38,125121,1,1,Car purchase,4025.22,High
+62757,37,Female,PhD,Single,4,Rent,74069,Self-Employed,234494,60,4.25,755,0.25,186763,5,0,Car purchase,4738.73,Low
+85529,22,Male,PhD,Widowed,2,Rent,17141,Unemployed,61959,48,4.74,671,0.26,37420,2,1,Education,1535.55,High
+74942,38,Female,High School,Widowed,0,Own,60593,Self-Employed,130388,48,7.32,700,0.33,152237,4,1,Debt consolidation,3511.78,Medium
+34586,53,Female,PhD,Widowed,0,Rent,95993,Self-Employed,184344,48,5.19,794,0.3,17567,5,0,Home improvement,4637.79,Low
+50730,55,Male,PhD,Single,1,Rent,67698,Self-Employed,140362,48,7.66,718,0.3,81676,4,1,Education,3820.19,Medium
+41946,49,Male,PhD,Married,4,Rent,59052,Employed,208774,48,7.67,732,0.25,10672,3,1,Medical expenses,5683.87,Medium
+86011,62,Female,Bachelor,Widowed,4,Own,81786,Self-Employed,294681,60,4.89,770,0.37,192845,2,1,Home improvement,6112.18,High
+63841,22,Female,PhD,Widowed,3,Rent,31213,Self-Employed,66547,60,7.83,671,0.37,125423,1,1,Debt consolidation,1543.34,High
+28894,46,Male,High School,Widowed,2,Own,0,Unemployed,93065,60,7.3,674,0.39,174311,4,0,Medical expenses,2117.23,High
+18968,35,Female,Bachelor,Single,3,Rent,11646,Unemployed,71805,60,4.5,651,0.21,24711,3,1,Car purchase,1466.02,High
+66450,29,Male,PhD,Married,1,Rent,34985,Employed,100140,60,6.42,681,0.38,47517,2,1,Car purchase,2204.75,High
+70236,36,Male,PhD,Divorced,5,Rent,49474,Employed,190587,60,4.5,727,0.34,129756,3,0,Education,3891.15,Medium
+73335,26,Male,PhD,Divorced,4,Own,0,Unemployed,136275,48,4.37,686,0.37,22856,5,1,Car purchase,3335.33,High
+40162,58,Female,Bachelor,Married,4,Own,0,Unemployed,132242,60,3.2,700,0.29,161931,3,0,Debt consolidation,2556.68,High
+48680,40,Female,Bachelor,Married,1,Own,18221,Unemployed,71567,48,7.57,680,0.39,87369,3,0,Education,1942.45,High
+19869,29,Male,PhD,Divorced,0,Own,29332,Employed,120329,36,5.27,693,0.35,78724,5,1,Car purchase,3870.92,High
+24201,63,Male,PhD,Single,4,Own,0,Unemployed,133283,48,7.55,669,0.33,40585,2,0,Debt consolidation,3615.3,High
+49893,51,Male,High School,Married,4,Rent,89729,Self-Employed,247258,60,7.75,794,0.39,119871,5,0,Education,5717.84,High
+95841,26,Female,PhD,Divorced,0,Own,32264,Employed,108287,36,7.28,656,0.4,106294,5,1,Debt consolidation,3664.91,High
+62184,37,Male,High School,Widowed,0,Rent,0,Unemployed,56629,48,4.22,658,0.36,63793,1,0,Medical expenses,1378.92,High
+38305,34,Female,Bachelor,Single,2,Rent,52701,Employed,165707,36,3.55,701,0.23,103911,2,1,Debt consolidation,5093.19,Medium
+32838,36,Male,Bachelor,Widowed,4,Rent,11041,Unemployed,108756,48,5.57,656,0.29,68077,5,0,Medical expenses,2770.56,High
+49535,49,Male,High School,Widowed,3,Own,11768,Unemployed,143375,48,3.37,655,0.26,48884,1,0,Car purchase,3389.62,High
+91830,60,Female,PhD,Divorced,3,Own,91976,Employed,333967,36,7.26,791,0.38,154529,2,1,Education,11297.36,High
+39949,46,Female,PhD,Widowed,3,Rent,83984,Self-Employed,231926,60,4.27,759,0.34,134326,1,0,Debt consolidation,4690.7,Medium
+22219,47,Male,Master,Married,4,Rent,19201,Unemployed,137819,36,5.05,692,0.39,120870,1,1,Medical expenses,4408.29,High
+50953,42,Male,Bachelor,Married,5,Own,77763,Employed,178368,48,7.23,773,0.22,83024,5,0,Education,4790.67,Low
+83526,59,Male,Master,Single,1,Own,15062,Unemployed,96009,36,3.91,659,0.31,115063,1,0,Debt consolidation,2979.75,High
+22026,53,Male,PhD,Widowed,3,Own,64251,Employed,181693,60,4.62,736,0.32,23791,2,0,Medical expenses,3727.73,Medium
+16522,63,Male,Master,Widowed,5,Own,99785,Self-Employed,265879,48,4.37,798,0.3,100484,4,0,Car purchase,6507.39,Low
+98895,63,Female,Master,Single,1,Own,0,Unemployed,76794,48,7.73,699,0.23,76982,3,1,Debt consolidation,2094.56,High
+11013,51,Female,Bachelor,Married,3,Rent,19154,Unemployed,59447,48,7.31,652,0.29,130521,1,1,Medical expenses,1600.61,High
+66267,56,Female,PhD,Divorced,0,Own,61284,Employed,145055,60,5.3,744,0.38,33102,4,0,Home improvement,3058.24,High
+67104,57,Female,High School,Widowed,2,Own,61827,Employed,144074,36,5.55,707,0.31,60830,3,1,Home improvement,4668.4,Medium
+40968,26,Male,Master,Married,1,Rent,0,Unemployed,132306,48,5.32,686,0.35,127677,5,1,Car purchase,3342.93,High
+29786,48,Male,PhD,Widowed,5,Own,89379,Self-Employed,164725,48,5.54,769,0.29,19858,1,1,Car purchase,4192.25,Medium
+20057,61,Male,PhD,Widowed,4,Rent,119575,Self-Employed,362288,60,6.26,770,0.32,141430,2,0,Education,7928.07,Medium
+23566,41,Male,Bachelor,Single,1,Own,87172,Self-Employed,287035,60,3.79,773,0.38,111558,4,1,Medical expenses,5690.47,High
+16863,60,Female,High School,Divorced,0,Own,76514,Self-Employed,339722,60,7.82,788,0.37,97388,1,0,Car purchase,7875.89,High
+50662,61,Female,Bachelor,Single,2,Own,0,Unemployed,137833,60,7.14,697,0.4,147990,1,1,Medical expenses,3117.32,High
+57425,21,Female,Master,Married,1,Own,36291,Self-Employed,79693,36,3.77,668,0.37,36513,5,0,Car purchase,2464.06,High
+91006,28,Female,Bachelor,Married,1,Rent,0,Unemployed,103852,48,6.38,665,0.39,170063,3,1,Home improvement,2715.73,High
+79993,35,Female,PhD,Married,2,Own,75212,Self-Employed,223864,48,5.51,776,0.39,62349,5,0,Car purchase,5691.74,High
+16839,61,Female,Master,Single,5,Rent,65496,Self-Employed,142024,48,5.25,732,0.23,124680,1,0,Education,3580.19,Medium
+55820,21,Female,High School,Widowed,4,Own,31326,Employed,60696,48,4.12,670,0.39,197355,3,0,Home improvement,1472.89,High
+15020,38,Female,Bachelor,Widowed,3,Rent,35622,Employed,83544,36,7.17,685,0.39,169614,5,1,Debt consolidation,2819.84,High
+47762,35,Female,High School,Single,1,Own,0,Unemployed,64530,48,5.98,651,0.33,160745,2,0,Car purchase,1665.95,High
+66261,20,Female,Bachelor,Widowed,1,Rent,0,Unemployed,118951,60,5.54,682,0.31,112355,4,0,Education,2531.67,High
+58929,36,Male,Master,Single,2,Rent,11698,Unemployed,67486,36,4.76,671,0.36,55898,4,1,Home improvement,2142.31,High
+27675,24,Female,High School,Divorced,1,Rent,39512,Employed,55492,48,7.67,682,0.28,152352,4,1,Debt consolidation,1510.77,High
+94790,32,Female,Master,Single,5,Own,54078,Self-Employed,196474,48,7.45,747,0.29,111356,3,0,Education,5312.98,Medium
+75211,43,Female,High School,Widowed,0,Own,12956,Unemployed,92101,36,3.4,692,0.26,126894,5,1,Home improvement,2819.31,High
+68183,42,Female,High School,Divorced,4,Own,90954,Self-Employed,357481,36,3.38,790,0.28,144502,2,0,Home improvement,10936.93,Low
+89635,63,Female,High School,Married,0,Rent,16001,Unemployed,100181,60,3.16,659,0.34,107246,3,1,Debt consolidation,1933.49,High
+85225,28,Female,PhD,Divorced,5,Own,26858,Employed,53396,60,3.93,683,0.28,157239,1,1,Car purchase,1064.81,High
+68493,33,Female,PhD,Married,0,Rent,49812,Employed,145260,60,5.23,705,0.36,93778,3,0,Medical expenses,3054.09,High
+81063,38,Female,Bachelor,Married,2,Rent,41585,Employed,136405,36,6.95,701,0.27,160019,3,1,Medical expenses,4579.04,Medium
+27009,59,Male,High School,Divorced,3,Own,16730,Unemployed,125353,36,3.63,670,0.33,127958,4,1,Home improvement,3861.22,High
+82260,60,Male,Bachelor,Widowed,4,Rent,73954,Employed,190112,48,3.82,770,0.39,69105,3,1,Debt consolidation,4565.86,High
+42847,32,Female,Bachelor,Divorced,4,Rent,0,Unemployed,72439,60,6.12,688,0.27,157749,1,0,Debt consolidation,1576.76,High
+15958,61,Female,Bachelor,Widowed,4,Rent,118261,Self-Employed,314407,60,4.45,769,0.3,189566,4,1,Education,6406.04,Medium
+19564,64,Male,Bachelor,Widowed,3,Own,73370,Self-Employed,239179,60,3.72,795,0.26,100536,4,0,Car purchase,4727.77,Low
+77499,55,Male,Master,Married,3,Rent,89464,Self-Employed,214990,36,3.48,768,0.39,171317,4,0,Home improvement,6595.42,High
+52917,56,Female,Bachelor,Married,3,Own,117611,Self-Employed,230882,48,3.12,775,0.3,73105,2,1,Debt consolidation,5410.33,Medium
+16624,38,Female,PhD,Divorced,4,Rent,49120,Employed,135110,48,6.64,748,0.28,21860,4,0,Medical expenses,3562.4,Medium
+83638,32,Female,Master,Single,3,Own,0,Unemployed,66864,36,4.97,700,0.4,156232,3,0,Home improvement,2134.26,High
+88966,52,Female,High School,Single,0,Rent,15456,Unemployed,118069,48,3.74,682,0.23,170712,3,0,Education,2827.75,High
+90805,39,Female,PhD,Divorced,3,Rent,60854,Self-Employed,128732,48,5.92,750,0.38,190366,1,1,Car purchase,3316.99,High
+95929,57,Male,High School,Widowed,1,Own,93848,Employed,328448,36,3.16,794,0.22,14964,4,1,Education,9988.47,Medium
+29848,46,Male,PhD,Widowed,5,Rent,0,Unemployed,123516,48,7.99,680,0.31,92248,2,1,Medical expenses,3395.66,High
+54869,54,Female,Master,Widowed,1,Rent,96574,Self-Employed,228249,36,7.71,769,0.35,194785,2,1,Car purchase,7806.75,Medium
+72888,42,Female,Master,Single,4,Own,96816,Self-Employed,240474,36,4.45,768,0.39,30717,3,1,Car purchase,7571.59,High
+72793,33,Male,Master,Divorced,1,Rent,0,Unemployed,81779,36,6.35,683,0.25,71036,1,0,Education,2704.39,High
+53292,65,Female,High School,Married,0,Rent,102787,Self-Employed,395113,48,5.39,762,0.35,85299,3,1,Debt consolidation,10006.24,Medium
+21725,61,Male,High School,Married,3,Rent,94801,Employed,254069,48,3.93,797,0.39,85882,1,0,Car purchase,6125.18,High
+84443,58,Male,Master,Divorced,3,Own,95775,Employed,282176,48,4.36,757,0.27,130301,3,0,Debt consolidation,6903.91,Low
+54185,38,Male,Bachelor,Widowed,3,Own,48134,Employed,125004,36,7.91,730,0.26,75024,1,1,Education,4296.32,Medium
+40870,48,Female,Master,Divorced,4,Rent,91419,Self-Employed,244254,60,4.18,792,0.22,90427,2,1,Medical expenses,4921.72,Medium
+50760,64,Male,Master,Divorced,4,Rent,48753,Employed,225352,36,5.27,738,0.27,194009,5,1,Medical expenses,7249.45,Medium
+97044,33,Male,High School,Widowed,4,Own,53486,Employed,129414,36,7.14,732,0.24,150682,2,0,Car purchase,4364.85,Medium
+78202,48,Male,Bachelor,Widowed,0,Own,64858,Employed,134588,60,5.08,736,0.21,131209,3,0,Education,2812.89,Medium
+43352,20,Male,High School,Single,3,Own,0,Unemployed,59046,48,3.16,676,0.24,45501,4,1,Education,1385.61,High
+68790,44,Female,High School,Married,5,Own,55848,Employed,240839,48,5.64,746,0.4,10910,1,1,Education,6149.42,High
+98276,54,Female,PhD,Married,1,Own,70166,Self-Employed,222259,36,7.69,796,0.35,18445,4,0,Home improvement,7598.17,Medium
+37011,24,Male,High School,Widowed,4,Rent,37133,Employed,55798,48,5.19,684,0.24,24796,2,1,Home improvement,1403.78,High
+85511,40,Female,Bachelor,Divorced,1,Rent,79846,Self-Employed,222129,36,5.78,787,0.38,55910,4,1,Debt consolidation,7240.17,High
+55143,61,Female,Master,Widowed,3,Rent,84671,Self-Employed,198202,60,5.37,764,0.26,195487,2,1,Debt consolidation,4190.32,Medium
+83713,46,Female,Bachelor,Widowed,1,Own,60822,Employed,120727,48,7.24,705,0.31,59933,1,1,Education,3243.53,Medium
+98299,58,Male,High School,Married,4,Rent,73689,Self-Employed,377927,48,4.52,750,0.24,59813,1,1,Home improvement,9297,Medium
+89220,65,Male,PhD,Married,4,Own,84947,Self-Employed,272224,60,6.24,769,0.25,144431,4,1,Debt consolidation,5952.63,Medium
+71537,40,Male,Master,Divorced,3,Rent,0,Unemployed,52125,48,5.77,687,0.32,119465,3,0,Home improvement,1336.57,High
+53236,34,Female,Bachelor,Widowed,4,Own,75013,Self-Employed,365375,48,7.83,791,0.35,130803,2,1,Home improvement,9996.05,Medium
+28344,54,Female,Bachelor,Single,4,Rent,93608,Employed,325168,36,6.82,776,0.23,175334,2,0,Home improvement,10880.48,Low
+11198,33,Female,Master,Single,4,Own,0,Unemployed,50866,60,5.76,650,0.2,199318,3,1,Debt consolidation,1091.92,High
+75826,64,Female,Bachelor,Single,0,Rent,52578,Employed,238007,48,7.08,717,0.36,30714,3,1,Education,6362.72,High
+84055,35,Male,Master,Single,5,Rent,48280,Employed,199421,48,5.76,703,0.33,194246,2,0,Education,5111.82,Medium
+66873,61,Female,High School,Single,1,Rent,19286,Unemployed,85532,36,7.62,693,0.39,152352,5,0,Home improvement,2919.02,High
+51220,21,Male,Bachelor,Widowed,0,Own,34239,Employed,81519,60,7.17,674,0.34,151705,3,1,Home improvement,1845.73,High
+20279,52,Female,High School,Single,3,Rent,62321,Employed,203993,48,3.15,717,0.36,128109,4,0,Car purchase,4785.34,High
+82487,44,Female,Bachelor,Widowed,0,Own,73367,Employed,169269,36,4.34,774,0.34,176173,2,1,Car purchase,5314.11,Medium
+57277,26,Male,High School,Divorced,3,Own,33349,Self-Employed,67367,36,3.94,678,0.31,144333,4,0,Debt consolidation,2092.49,High
+21746,42,Male,Master,Widowed,0,Own,82707,Self-Employed,354254,36,6.62,785,0.38,73633,5,0,Education,11794.69,High
+32216,28,Female,Master,Divorced,3,Rent,27739,Employed,106973,48,5.11,680,0.36,104666,3,0,Education,2684.13,High
+87831,59,Male,PhD,Single,1,Own,65932,Employed,187088,60,4.9,721,0.29,122883,5,0,Car purchase,3882.08,Medium
+52030,58,Male,PhD,Divorced,1,Own,79100,Self-Employed,342642,60,6.16,786,0.36,95429,4,1,Education,7469.6,High
+57843,27,Male,Bachelor,Single,5,Own,13434,Unemployed,88185,60,3.35,700,0.36,186417,4,0,Car purchase,1715.93,High
+41722,36,Male,PhD,Widowed,0,Own,17851,Unemployed,120040,60,7.62,694,0.28,19637,3,0,Debt consolidation,2762.92,High
+42536,62,Female,Bachelor,Single,4,Own,112181,Self-Employed,262841,36,3.05,766,0.24,145999,5,0,Education,7969.19,Low
+59036,45,Female,Bachelor,Divorced,0,Own,59680,Employed,209045,36,3.58,746,0.23,91760,3,1,Home improvement,6430.46,Medium
+78303,50,Female,PhD,Single,3,Own,64402,Self-Employed,178712,36,7.05,707,0.2,99935,1,0,Home improvement,6014.16,Medium
+77632,31,Male,Master,Widowed,3,Rent,70635,Self-Employed,198352,36,6.2,777,0.28,170984,2,1,Medical expenses,6534.6,Medium
+66302,44,Male,Bachelor,Married,2,Rent,0,Unemployed,97945,48,3.99,657,0.25,138315,5,1,Medical expenses,2366.19,High
+60939,59,Female,High School,Divorced,2,Own,12826,Unemployed,130541,60,3.42,658,0.26,72540,3,0,Home improvement,2547.73,High
+58929,64,Male,PhD,Widowed,4,Rent,16286,Unemployed,74347,48,6.18,694,0.38,55412,5,0,Education,1931.78,High
+47858,28,Male,Master,Widowed,4,Rent,30314,Self-Employed,113518,36,3.98,674,0.39,142497,4,1,Education,3529.78,High
+64477,65,Female,PhD,Married,0,Rent,59142,Employed,108570,48,4.12,718,0.23,129884,5,1,Medical expenses,2634.63,Medium
+76952,27,Male,Master,Divorced,4,Rent,0,Unemployed,105725,36,6.68,691,0.35,88042,1,1,Car purchase,3525.34,High
+55688,25,Female,High School,Married,1,Own,19998,Unemployed,71755,60,3.7,663,0.36,25560,5,1,Medical expenses,1417.16,High
+46842,58,Male,Master,Divorced,2,Own,0,Unemployed,148316,48,7.59,667,0.37,43262,2,0,Home improvement,4028.02,High
+52217,35,Female,PhD,Married,4,Own,16786,Unemployed,109243,36,6.17,699,0.22,145164,3,1,Education,3596.22,High
+73968,40,Male,High School,Widowed,5,Own,76072,Employed,290096,48,4.09,777,0.36,139686,3,1,Car purchase,7032.41,High
+54270,55,Male,PhD,Divorced,5,Rent,46525,Employed,220476,36,3.62,710,0.29,10177,4,0,Home improvement,6789.44,Medium
+95196,39,Male,Master,Single,5,Own,52700,Self-Employed,197476,60,7.52,710,0.21,173998,3,0,Education,4528.78,Medium
+95915,25,Male,High School,Married,3,Rent,34726,Employed,79647,60,6.4,650,0.2,100065,1,1,Home improvement,1752.23,High
+72613,24,Male,PhD,Single,5,Rent,30133,Employed,98177,48,3.69,699,0.36,44903,2,0,Medical expenses,2347.25,High
+83831,20,Male,PhD,Divorced,5,Rent,12480,Unemployed,130750,60,5.21,663,0.22,36336,2,0,Medical expenses,2746.84,High
+60335,42,Female,Master,Married,1,Own,0,Unemployed,122534,60,6,688,0.26,191004,1,1,Home improvement,2654.9,High
+77862,58,Male,PhD,Divorced,5,Rent,72432,Employed,251157,36,4.21,790,0.32,148487,1,1,Car purchase,7857.73,Medium
+27299,44,Female,Master,Married,3,Rent,69246,Employed,117703,36,4.31,702,0.38,114326,5,1,Medical expenses,3692.28,High
+64451,47,Female,High School,Married,2,Rent,72589,Self-Employed,284035,36,7.87,759,0.31,112427,5,0,Car purchase,9752.66,Medium
+67342,35,Male,Bachelor,Single,3,Rent,70063,Self-Employed,309601,36,4.55,797,0.33,56044,1,0,Home improvement,9773.93,Medium
+11487,30,Female,Master,Divorced,1,Own,59568,Employed,170454,60,7.43,749,0.38,97821,4,1,Medical expenses,3896.29,High
+18371,36,Male,PhD,Widowed,4,Own,51371,Employed,248605,36,4.84,716,0.35,160447,1,0,Medical expenses,7908.4,Medium
+10336,22,Male,Bachelor,Single,3,Own,34917,Self-Employed,73456,36,5.76,695,0.35,119935,2,1,Home improvement,2393.03,High
+64559,40,Female,High School,Divorced,0,Rent,57313,Employed,235207,36,7.77,704,0.38,84005,3,1,Debt consolidation,8056.49,High
+82494,49,Male,Master,Married,2,Own,13974,Unemployed,98270,60,7.86,699,0.36,153277,2,0,Debt consolidation,2281.5,High
+63744,21,Male,Master,Single,2,Rent,16164,Unemployed,63624,36,5.65,665,0.28,25701,2,1,Debt consolidation,2066.9,High
+15754,34,Female,Master,Widowed,5,Rent,0,Unemployed,133521,48,3.37,686,0.21,183655,2,0,Car purchase,3156.66,High
+44208,40,Female,Master,Divorced,3,Own,52447,Employed,153139,36,6.9,737,0.22,37697,2,1,Education,5134.41,Medium
+51160,46,Male,Master,Married,3,Own,78683,Self-Employed,373473,36,3.45,793,0.26,194734,5,0,Home improvement,11447.98,Low
+52964,29,Male,Bachelor,Divorced,3,Rent,14896,Unemployed,72789,36,7.76,678,0.31,154210,2,0,Education,2492.62,High
+23357,28,Male,High School,Single,1,Rent,38495,Employed,102505,48,6.43,691,0.22,163647,3,0,Debt consolidation,2684.78,High
+18450,32,Female,Bachelor,Single,2,Rent,50105,Employed,113274,36,7.62,727,0.36,113546,4,0,Education,3865.79,High
+99550,47,Male,Master,Married,1,Own,84614,Self-Employed,381584,36,3.17,789,0.32,179680,3,1,Education,11607.57,Medium
+82179,50,Male,High School,Divorced,3,Rent,73071,Self-Employed,318467,60,4.25,784,0.36,110269,3,1,Medical expenses,6435.69,High
+73527,42,Female,PhD,Divorced,1,Rent,89566,Self-Employed,207414,36,7.48,799,0.26,133649,5,1,Medical expenses,7054.38,Medium
+40508,30,Male,Bachelor,Married,2,Rent,53864,Employed,201822,48,7.68,711,0.24,165325,3,1,Medical expenses,5496.29,Medium
+13697,65,Female,Bachelor,Married,3,Own,72141,Employed,159951,36,3.28,788,0.24,148005,4,0,Car purchase,4880.28,Low
+90495,32,Male,Master,Married,2,Rent,39840,Employed,126888,60,7.59,699,0.22,147965,3,0,Car purchase,2917.37,High
+96787,45,Male,Master,Divorced,2,Rent,73997,Employed,398694,48,6.96,781,0.33,55666,5,1,Home improvement,10618.55,Medium
+97232,57,Male,PhD,Divorced,5,Own,51646,Employed,100471,60,7.74,725,0.37,158762,1,0,Medical expenses,2322.55,High
+51709,59,Male,High School,Widowed,1,Own,0,Unemployed,95457,48,3.84,655,0.36,185642,3,1,Debt consolidation,2294.15,High
+44761,33,Male,High School,Divorced,2,Rent,0,Unemployed,100585,48,6.66,660,0.38,139258,4,1,Medical expenses,2653.77,High
+59197,26,Female,Bachelor,Married,3,Rent,29831,Employed,52631,48,4.31,656,0.21,54592,4,0,Debt consolidation,1285.51,High
+81702,25,Female,PhD,Single,3,Rent,0,Unemployed,57019,36,4.66,662,0.28,155257,5,1,Car purchase,1805.28,High
+48980,35,Male,High School,Widowed,4,Own,36786,Employed,97294,36,5.14,668,0.36,173863,5,1,Home improvement,3119.35,High
+22712,21,Male,Bachelor,Divorced,0,Own,30052,Employed,102096,48,5.45,692,0.25,178261,5,1,Home improvement,2590.69,High
+58630,44,Female,Bachelor,Widowed,0,Own,85239,Self-Employed,219048,36,7.19,786,0.21,192575,1,0,Car purchase,7397.13,Low
+80968,46,Male,High School,Widowed,4,Own,0,Unemployed,112424,48,3.39,695,0.21,159741,5,0,Debt consolidation,2659.76,High
+68856,31,Male,Bachelor,Married,1,Rent,52567,Self-Employed,214135,36,7.99,740,0.23,165988,3,1,Debt consolidation,7373.98,Medium
+21406,44,Female,Master,Divorced,4,Own,75773,Employed,333608,60,5.94,800,0.28,118643,2,0,Medical expenses,7211.49,Low
+87061,57,Male,High School,Single,2,Own,77310,Self-Employed,250412,60,5.43,788,0.29,55141,3,1,Home improvement,5306.65,Medium
+91034,58,Female,High School,Widowed,2,Rent,88873,Employed,274575,48,7.49,751,0.27,89444,3,1,Education,7434.12,Medium
+99764,26,Male,Bachelor,Divorced,5,Own,38828,Self-Employed,145525,48,6.02,655,0.24,65414,4,1,Medical expenses,3761.82,High
+59009,23,Male,High School,Divorced,5,Own,37787,Employed,118719,60,3.14,662,0.38,62619,1,0,Debt consolidation,2289.3,High
+69827,23,Female,Bachelor,Divorced,2,Own,0,Unemployed,139282,36,4.21,681,0.32,56552,4,1,Car purchase,4357.59,High
+31432,36,Male,Master,Single,3,Rent,53751,Employed,156182,36,6.24,743,0.24,180809,4,0,Debt consolidation,5150.54,Medium
+72140,28,Male,High School,Married,2,Own,14511,Unemployed,99345,48,5.29,663,0.29,187522,5,1,Medical expenses,2507.63,High
+23410,20,Female,Master,Divorced,5,Rent,32091,Self-Employed,94077,48,6.2,667,0.25,196408,3,0,Home improvement,2446,High
+77802,35,Male,PhD,Divorced,5,Rent,10417,Unemployed,88745,48,7.53,675,0.28,19258,5,0,Car purchase,2405.73,High
+39145,63,Female,Master,Divorced,1,Rent,66396,Self-Employed,223412,36,6.7,746,0.36,57990,3,0,Home improvement,7453.27,High
+56567,34,Female,PhD,Divorced,2,Own,14817,Unemployed,65437,48,3.27,690,0.32,172700,1,1,Home improvement,1541.59,High
+75598,27,Female,Master,Widowed,0,Rent,28281,Employed,94914,48,7.94,679,0.23,197608,2,0,Education,2605.39,High
+53598,60,Male,Master,Single,0,Own,73722,Self-Employed,349542,36,5.88,760,0.3,33079,2,1,Education,11422.26,Medium
+62873,47,Female,PhD,Single,0,Rent,0,Unemployed,92233,60,3.95,693,0.2,75227,2,1,Car purchase,1840.82,High
+26899,26,Female,Master,Married,0,Rent,39529,Self-Employed,109759,60,5.6,683,0.27,190035,2,1,Education,2341.53,High
+57087,32,Male,PhD,Single,1,Rent,0,Unemployed,146216,36,5.95,660,0.22,196413,1,1,Car purchase,4786.54,High
+80088,59,Male,High School,Single,5,Rent,85203,Employed,180353,48,5.22,757,0.31,134360,2,0,Debt consolidation,4541.89,Medium
+49467,46,Male,Master,Married,3,Rent,11928,Unemployed,64943,36,5.49,688,0.24,78942,5,0,Car purchase,2101.09,High
+63707,38,Male,High School,Widowed,1,Own,57684,Self-Employed,100717,36,6.36,707,0.37,185380,4,0,Debt consolidation,3331.49,High
+77070,24,Male,Master,Married,3,Own,45213,Self-Employed,113128,36,7.07,702,0.37,104428,3,1,Debt consolidation,3808.96,High
+22451,22,Male,Bachelor,Married,2,Own,50375,Self-Employed,170335,60,3.46,721,0.24,115061,4,1,Car purchase,3330.05,Medium
+60556,64,Female,PhD,Married,0,Rent,0,Unemployed,63593,48,7.56,680,0.36,187836,4,0,Medical expenses,1725.49,High
+59774,42,Male,Bachelor,Widowed,3,Rent,84440,Self-Employed,162051,36,4.31,770,0.2,187714,5,0,Car purchase,5083.45,Low
+78039,53,Male,PhD,Married,3,Own,0,Unemployed,123183,60,3.27,691,0.39,142531,4,1,Home improvement,2388.72,High
+19812,51,Female,Bachelor,Divorced,2,Rent,13648,Unemployed,102858,36,3.39,678,0.36,127466,1,1,Education,3147.74,High
+51426,27,Female,High School,Single,3,Own,34128,Employed,121971,36,7.13,700,0.32,172284,3,0,Education,4112.79,Medium
+54676,43,Male,Bachelor,Widowed,2,Own,15952,Unemployed,64945,36,6.8,664,0.2,103097,3,1,Debt consolidation,2172.05,High
+16000,30,Female,Bachelor,Widowed,0,Own,0,Unemployed,65826,48,4.08,700,0.24,98587,1,1,Debt consolidation,1595.18,High
+93000,63,Male,PhD,Widowed,5,Rent,60284,Self-Employed,239031,60,3.24,727,0.37,136597,5,0,Medical expenses,4629.23,High
+32760,28,Male,PhD,Divorced,4,Own,49955,Self-Employed,165074,48,4.99,721,0.39,128710,2,0,Education,4125.47,High
+88974,64,Female,Master,Married,1,Rent,14760,Unemployed,138129,36,7.91,691,0.4,56612,5,1,Debt consolidation,4747.42,High
+56168,55,Female,PhD,Divorced,3,Rent,0,Unemployed,99921,36,3.27,653,0.24,52188,3,1,Home improvement,3047.87,High
+18130,64,Female,Bachelor,Single,2,Own,80377,Employed,377550,60,6.7,764,0.35,157133,4,0,Medical expenses,8400.49,Medium
+47701,64,Male,PhD,Widowed,3,Own,0,Unemployed,147474,48,4.02,699,0.37,126146,2,1,Medical expenses,3566.41,High
+81645,58,Male,Bachelor,Divorced,3,Rent,0,Unemployed,72779,60,5.57,674,0.21,83167,5,1,Home improvement,1550.8,High
+31093,57,Female,High School,Divorced,3,Rent,50073,Employed,184575,60,3.25,740,0.32,183510,3,1,Medical expenses,3576.14,Medium
+82110,42,Male,Master,Married,1,Rent,12611,Unemployed,121182,60,5.02,672,0.24,65929,3,1,Car purchase,2526.64,High
+48479,33,Female,High School,Single,5,Own,57875,Self-Employed,163917,36,6.41,720,0.28,39720,4,1,Medical expenses,5428.84,Medium
+47070,21,Female,PhD,Widowed,0,Own,13154,Unemployed,117357,36,7.74,660,0.39,151026,5,0,Debt consolidation,4016.87,High
+37627,62,Male,PhD,Single,1,Own,0,Unemployed,53113,48,6.58,652,0.22,24226,2,1,Medical expenses,1397.76,High
+19232,56,Male,Master,Widowed,3,Own,16626,Unemployed,91471,36,4.95,657,0.31,178145,5,0,Medical expenses,2918.18,High
+15965,64,Male,Master,Single,2,Own,11417,Unemployed,107367,48,4.98,692,0.21,50979,5,0,Home improvement,2682.39,High
+61248,54,Female,Bachelor,Divorced,5,Own,76275,Employed,379314,60,3.71,752,0.2,166409,4,0,Car purchase,7494.61,Low
+37532,42,Male,PhD,Married,1,Rent,70214,Employed,368824,48,3.97,761,0.33,158712,1,1,Medical expenses,8904.03,Medium
+19587,38,Male,Master,Single,1,Own,61702,Self-Employed,133610,60,6.28,706,0.26,28299,2,1,Education,2926.06,Medium
+69067,41,Female,Bachelor,Divorced,2,Own,50158,Employed,182107,36,6.93,745,0.35,124327,3,1,Home improvement,6110.2,Medium
+99073,41,Female,PhD,Widowed,2,Own,88077,Self-Employed,178529,36,6.23,755,0.37,46700,5,0,Car purchase,5886,High
+92132,24,Male,High School,Single,4,Own,0,Unemployed,122298,48,5.72,684,0.29,48963,3,1,Home improvement,3130.83,High
+87280,38,Male,PhD,Single,3,Own,0,Unemployed,130482,60,3.83,682,0.23,51739,2,0,Education,2591.16,High
+57028,22,Male,PhD,Married,0,Own,37668,Self-Employed,55610,60,4.03,700,0.27,133122,4,0,Debt consolidation,1113.59,Medium
+95003,40,Male,Master,Divorced,4,Rent,91419,Self-Employed,249226,48,5.94,754,0.3,108652,2,1,Car purchase,6425.88,Medium
+55224,51,Female,High School,Married,3,Rent,45052,Employed,234883,60,4.4,709,0.24,104954,5,0,Home improvement,4775.95,Medium
+64344,41,Male,PhD,Widowed,3,Rent,12641,Unemployed,52942,36,3.22,686,0.32,45317,5,0,Medical expenses,1612.67,High
+29249,23,Male,Master,Married,4,Own,0,Unemployed,144312,60,6.31,668,0.39,66778,4,1,Education,3164.04,High
+32356,34,Female,Bachelor,Married,4,Own,58730,Employed,189829,48,5.98,704,0.25,111046,2,0,Debt consolidation,4900.75,Medium
+36522,53,Female,Bachelor,Single,1,Own,0,Unemployed,119655,60,6.76,655,0.3,44164,5,0,Education,2668.31,High
+78425,46,Female,High School,Widowed,1,Own,81485,Self-Employed,304415,60,7.54,794,0.32,121539,2,1,Education,6986.32,Medium
+40475,25,Female,PhD,Divorced,1,Rent,0,Unemployed,118126,36,4.88,663,0.34,92811,4,1,Debt consolidation,3761.66,High
+30287,47,Female,Master,Widowed,4,Own,14514,Unemployed,148955,36,5.07,700,0.31,56850,3,1,Car purchase,4766.97,High
+50193,56,Female,PhD,Married,5,Rent,13764,Unemployed,141660,36,3.5,682,0.28,98719,5,0,Home improvement,4348.18,High
+61000,60,Male,High School,Married,3,Own,44199,Employed,168967,36,4.85,738,0.21,110748,4,1,Medical expenses,5376.44,Medium
+17531,31,Female,PhD,Single,1,Own,36101,Employed,128579,60,5.58,664,0.32,186691,1,1,Home improvement,2740.88,High
+95854,20,Male,High School,Divorced,3,Own,16474,Unemployed,126818,36,5.59,697,0.34,33636,5,1,Medical expenses,4113.48,High
+86406,42,Female,Master,Married,4,Rent,83236,Self-Employed,300708,36,4.31,776,0.3,156441,1,1,Car purchase,9433.04,Medium
+25336,52,Female,Master,Widowed,3,Own,89641,Employed,239040,48,6.41,787,0.37,136345,1,1,Debt consolidation,6256.87,High
+60157,60,Male,Bachelor,Divorced,3,Own,0,Unemployed,141857,48,4.24,655,0.28,99651,1,0,Education,3456.58,High
+51139,42,Male,Master,Married,5,Rent,94153,Self-Employed,202341,36,6.68,766,0.24,63154,2,1,Home improvement,6746.95,Medium
+23983,27,Male,PhD,Single,4,Rent,42163,Self-Employed,182684,48,7.49,736,0.37,138661,2,1,Education,4946.17,High
+39110,56,Male,High School,Widowed,3,Rent,15689,Unemployed,139959,36,5.29,657,0.34,130604,3,0,Debt consolidation,4504.74,High
+98356,33,Female,High School,Divorced,2,Own,52975,Employed,168904,36,4.35,739,0.27,58211,4,1,Home improvement,5304.05,Medium
+64931,64,Female,Master,Widowed,2,Own,77447,Employed,184377,60,6.43,756,0.34,71814,5,1,Education,4060.9,Medium
+35698,29,Male,PhD,Single,1,Own,34406,Self-Employed,132660,60,5.67,670,0.36,88652,3,0,Education,2837.82,High
+22972,64,Male,High School,Married,2,Own,11577,Unemployed,147595,48,4.3,673,0.31,77558,3,0,Education,3603.78,High
+25890,42,Male,Bachelor,Divorced,2,Own,18363,Unemployed,146537,48,7.45,674,0.32,131569,2,0,Car purchase,3962.6,High
+65288,60,Female,High School,Single,1,Own,60544,Employed,183067,60,4.46,717,0.32,113666,3,1,Car purchase,3731.52,Medium
+86928,53,Female,PhD,Married,1,Rent,87695,Employed,211506,60,4.26,797,0.34,30988,2,0,Education,4275.95,Medium
+23501,26,Male,PhD,Single,0,Own,0,Unemployed,84400,60,3.78,691,0.39,112195,3,0,Home improvement,1672.53,High
+47247,48,Male,Bachelor,Married,0,Rent,15846,Unemployed,112410,48,7.87,684,0.39,153797,4,0,Medical expenses,3079.1,High
+33204,57,Female,PhD,Divorced,2,Own,0,Unemployed,107915,48,4.83,666,0.23,12767,1,0,Car purchase,2682.59,High
+47586,50,Male,PhD,Widowed,2,Rent,112295,Self-Employed,226787,60,4.16,750,0.31,59432,4,1,Education,4565.98,Medium
+42754,30,Female,PhD,Married,2,Rent,70490,Self-Employed,212799,60,6.82,789,0.36,189474,3,1,Medical expenses,4756.06,High
+45235,46,Male,High School,Married,1,Own,70869,Employed,269365,60,5.26,794,0.32,59227,3,0,Home improvement,5670.13,Medium
+16505,54,Male,Bachelor,Single,2,Own,86871,Employed,264928,60,3.04,755,0.23,139388,2,1,Education,5086.62,Medium
+50838,51,Female,PhD,Single,2,Rent,43672,Employed,169862,48,3.36,730,0.24,75556,4,0,Debt consolidation,4014.41,Medium
+42631,44,Female,Bachelor,Single,1,Own,0,Unemployed,111974,48,6.41,669,0.39,51579,1,0,Car purchase,2930.92,High
+73075,60,Female,Bachelor,Divorced,0,Rent,55464,Employed,213812,48,3.08,750,0.26,41365,4,0,Debt consolidation,5003.2,Low
+15504,57,Female,Bachelor,Divorced,0,Rent,72762,Employed,173960,60,6.09,798,0.33,25669,3,0,Medical expenses,3782.18,Medium
+24076,28,Female,Bachelor,Divorced,4,Own,54025,Self-Employed,150584,36,6.45,722,0.34,75718,1,1,Education,4992.28,Medium
+83272,38,Female,Bachelor,Married,4,Own,73999,Self-Employed,272786,48,7.34,788,0.38,155364,2,0,Medical expenses,7351.58,High
+30319,48,Female,Master,Divorced,3,Rent,18289,Unemployed,146161,36,7.41,689,0.37,172581,2,1,Debt consolidation,4962.57,High
+96283,54,Female,Bachelor,Widowed,4,Rent,14638,Unemployed,103713,60,4.61,656,0.3,27479,1,0,Home improvement,2126.98,High
+14099,32,Male,PhD,Married,0,Rent,16366,Unemployed,118920,60,6.51,666,0.21,67861,5,0,Debt consolidation,2627.14,High
+37359,61,Female,High School,Widowed,5,Rent,96570,Self-Employed,344898,48,7.11,800,0.34,171725,3,0,Debt consolidation,9228.9,Medium
+49833,24,Male,High School,Single,5,Rent,0,Unemployed,75312,60,6.28,686,0.33,56897,5,1,Debt consolidation,1649.33,High
+93705,56,Female,PhD,Widowed,0,Rent,76042,Employed,255265,60,4.69,760,0.31,167264,4,1,Car purchase,5252.08,Medium
+82100,40,Female,PhD,Widowed,5,Own,0,Unemployed,99160,60,7.63,666,0.27,128594,4,1,Debt consolidation,2283.16,High
+14543,38,Male,Bachelor,Divorced,0,Own,42039,Employed,182550,36,6.86,744,0.36,155139,5,0,Debt consolidation,6114.41,High
+14946,49,Female,Bachelor,Married,2,Own,0,Unemployed,83586,48,3.46,675,0.31,66999,1,1,Education,1982.38,High
+32662,51,Male,Master,Single,5,Own,91126,Employed,164659,48,4.74,777,0.28,41598,2,0,Education,4080.8,Low
+17094,39,Male,Master,Married,2,Rent,36655,Employed,138294,60,7.99,678,0.35,160799,5,0,Home improvement,3225.71,High
+66614,38,Female,Bachelor,Married,2,Rent,68724,Self-Employed,112926,60,5,705,0.28,123899,2,0,Education,2352.62,Medium
+83308,32,Female,PhD,Married,4,Rent,37347,Employed,84898,48,4.62,686,0.22,186094,4,1,Car purchase,2095.57,High
+55653,32,Female,Master,Single,2,Rent,70192,Self-Employed,365373,48,6.12,778,0.21,71207,2,1,Home improvement,9475.34,Medium
+21247,27,Male,Bachelor,Married,2,Rent,52734,Self-Employed,129170,48,5.25,701,0.27,151034,2,0,Medical expenses,3256.16,Medium
+78585,36,Female,Bachelor,Single,3,Rent,55581,Self-Employed,115757,48,4,744,0.32,23915,4,0,Debt consolidation,2797.46,Medium
+60940,62,Female,Master,Single,0,Own,0,Unemployed,99899,60,7.88,656,0.38,137051,5,0,Home improvement,2320.99,High
+36066,52,Female,High School,Single,1,Own,92108,Self-Employed,253127,60,3.79,772,0.34,103160,3,0,Medical expenses,5018.24,Medium
+46159,23,Female,PhD,Single,4,Own,27485,Employed,94798,48,6.28,655,0.35,146503,5,0,Education,2471.07,High
+41504,56,Male,PhD,Divorced,4,Own,95535,Self-Employed,184543,36,6.26,787,0.31,63034,2,1,Medical expenses,6088.89,Medium
+27727,47,Male,Bachelor,Divorced,0,Rent,60407,Employed,138147,60,3.15,720,0.38,118538,4,1,Education,2665.09,High
+93472,37,Male,Bachelor,Single,1,Rent,59983,Employed,169956,60,5.84,714,0.32,70532,1,1,Debt consolidation,3659.72,Medium
+72469,28,Female,Master,Married,3,Own,34506,Self-Employed,71467,36,4.13,676,0.35,13935,3,1,Home improvement,2231.16,High
+97993,32,Male,High School,Married,3,Own,15323,Unemployed,82346,48,5.02,652,0.32,109712,3,1,Medical expenses,2060.02,High
+84964,58,Male,High School,Widowed,3,Rent,73993,Employed,290999,48,7.92,752,0.31,145299,1,0,Car purchase,7983.07,Medium
+67613,45,Female,Master,Widowed,1,Own,90091,Self-Employed,390918,36,6.45,759,0.29,179371,4,0,Medical expenses,12960.02,Low
+24833,31,Male,PhD,Widowed,2,Own,40861,Employed,218929,60,7.48,712,0.38,33640,3,1,Home improvement,5013.47,High
+26193,25,Male,PhD,Divorced,0,Own,0,Unemployed,99634,60,4.9,699,0.23,97868,5,0,Home improvement,2067.41,High
+28953,31,Male,PhD,Divorced,2,Own,70527,Self-Employed,197368,36,7.49,762,0.2,76351,1,1,Education,6714.35,Medium
+75358,54,Male,PhD,Married,1,Own,86879,Self-Employed,265834,36,6.01,750,0.25,153482,3,0,Debt consolidation,8715.66,Low
+34227,29,Male,Master,Single,1,Rent,19471,Unemployed,93399,36,3.25,676,0.4,52293,3,0,Education,2847.37,High
+85886,43,Male,High School,Divorced,2,Own,96878,Self-Employed,167738,48,7.22,754,0.26,45270,1,1,Car purchase,4503.77,Medium
+79081,46,Male,Bachelor,Single,0,Rent,93726,Self-Employed,330526,60,7.67,795,0.26,169604,3,1,Medical expenses,7621.38,Medium
+85385,59,Female,Bachelor,Widowed,4,Own,112951,Self-Employed,197161,60,4.16,768,0.4,10414,1,0,Education,3969.51,High
+91980,27,Male,PhD,Widowed,0,Own,48363,Self-Employed,155663,36,6.2,744,0.26,27782,3,1,Medical expenses,5128.23,Medium
+82088,40,Male,High School,Divorced,2,Own,0,Unemployed,73020,36,4.65,671,0.38,135595,4,0,Home improvement,2311.29,High
+73110,29,Female,Master,Widowed,3,Rent,14904,Unemployed,122768,60,3.09,686,0.34,102692,1,0,Car purchase,2362.26,High
+14085,41,Female,Bachelor,Widowed,1,Rent,93110,Self-Employed,374872,48,6.55,767,0.28,140299,2,1,Education,9856.01,Medium
+49666,33,Female,Bachelor,Single,2,Rent,38034,Employed,108166,60,3.12,680,0.38,50390,2,1,Education,2084,High
+78632,39,Female,Bachelor,Single,4,Rent,58742,Employed,109582,48,4.94,733,0.22,91521,1,0,Car purchase,2734.07,Medium
+71194,22,Male,Master,Single,4,Own,13438,Unemployed,76287,36,4.43,684,0.26,125635,1,1,Home improvement,2400.71,High
+30643,37,Male,High School,Single,1,Own,15218,Unemployed,68554,60,7.02,686,0.25,28675,3,1,Medical expenses,1543.61,High
+68149,23,Male,High School,Widowed,5,Rent,31284,Employed,57051,36,5.13,661,0.34,165387,4,1,Car purchase,1828.64,High
+53559,32,Male,PhD,Married,0,Own,49928,Employed,181367,60,6.22,749,0.29,70737,2,0,Medical expenses,3962.87,Medium
+43823,43,Female,Bachelor,Divorced,2,Own,70991,Self-Employed,167135,48,3.56,780,0.29,54774,3,1,Medical expenses,3977.81,Medium
+85324,28,Male,PhD,Single,2,Rent,47457,Self-Employed,220841,48,5.95,715,0.32,153641,2,1,Education,5695.86,Medium
+18658,41,Male,PhD,Widowed,4,Own,0,Unemployed,136849,60,3.39,695,0.31,137567,1,1,Car purchase,2667.42,High
+82756,26,Female,Bachelor,Divorced,3,Rent,11781,Unemployed,92914,48,6.22,653,0.22,46416,5,0,Home improvement,2417.31,High
+96623,29,Female,Master,Widowed,4,Own,28369,Employed,139327,48,4.5,700,0.38,89835,4,1,Debt consolidation,3425.12,High
+86379,20,Female,Bachelor,Divorced,0,Own,0,Unemployed,142190,60,7.1,672,0.22,83979,1,0,Education,3211.12,High
+87353,45,Female,PhD,Widowed,3,Own,0,Unemployed,112242,36,3.94,674,0.37,104447,4,0,Car purchase,3486.36,High
+97826,28,Male,High School,Single,5,Rent,36818,Employed,113792,60,5.18,658,0.22,178360,4,1,Medical expenses,2387.74,High
+65797,59,Male,PhD,Widowed,4,Own,83285,Self-Employed,209176,36,5.12,750,0.32,72062,5,1,Education,6702.93,Medium
+81587,56,Female,High School,Single,4,Own,0,Unemployed,126056,48,7.81,655,0.23,147994,3,1,Medical expenses,3446.58,High
+20254,53,Male,Bachelor,Widowed,5,Rent,18834,Unemployed,130352,36,7.52,684,0.36,132911,4,1,Medical expenses,4437.76,High
+53452,46,Female,Master,Divorced,1,Rent,19791,Unemployed,145285,60,4.3,690,0.29,54323,5,0,Car purchase,2942.02,High
+91830,21,Female,PhD,Single,1,Rent,38259,Self-Employed,67372,60,4.4,666,0.2,39242,5,0,Medical expenses,1369.9,High
+29809,62,Female,Master,Married,2,Rent,71849,Self-Employed,359550,60,7.31,771,0.4,48029,5,0,Education,8182.76,High
+64125,44,Male,PhD,Married,1,Own,71045,Employed,219309,36,3.26,779,0.28,89001,4,0,Education,6687.71,Low
+99589,65,Female,PhD,Divorced,1,Own,58926,Employed,217655,48,6.39,733,0.34,20752,1,1,Education,5693.49,Medium
+90017,61,Female,Master,Divorced,2,Rent,102883,Self-Employed,303138,48,5.31,793,0.35,186131,5,0,Medical expenses,7656.76,Medium
+54224,63,Male,Master,Single,5,Rent,40783,Employed,207806,36,5.63,743,0.29,67518,3,1,Home improvement,6747.35,Medium
+14461,21,Male,High School,Married,4,Rent,0,Unemployed,129257,36,4.88,698,0.38,158391,2,0,Home improvement,4116.12,High
+43205,38,Female,High School,Widowed,2,Own,15298,Unemployed,71229,36,4.39,653,0.28,97203,1,1,Car purchase,2239.16,High
+33321,48,Male,PhD,Married,4,Own,71151,Employed,278989,36,3.72,799,0.29,170947,1,1,Car purchase,8614.56,Medium
+23538,22,Male,High School,Divorced,3,Rent,34877,Self-Employed,135572,60,3,652,0.33,79844,2,1,Education,2598.46,High
+85319,20,Female,PhD,Widowed,3,Rent,0,Unemployed,100387,60,7.09,680,0.22,150326,3,1,Car purchase,2266.24,High
+62509,23,Male,Master,Divorced,0,Own,51226,Self-Employed,153246,36,5.77,724,0.33,88347,4,0,Car purchase,4993.69,Medium
+73766,25,Female,Bachelor,Married,0,Rent,36792,Employed,127718,36,5.45,654,0.36,178665,3,1,Medical expenses,4127.77,High
+68891,21,Male,Master,Single,2,Rent,33872,Self-Employed,77745,60,6.34,679,0.39,150656,2,0,Debt consolidation,1706.5,High
+14833,29,Female,High School,Widowed,4,Rent,36490,Employed,135037,36,3.07,690,0.21,90566,1,1,Medical expenses,4096.5,High
+32372,57,Male,High School,Single,3,Rent,92720,Employed,203121,48,4.69,797,0.34,94996,1,0,Car purchase,5025.55,Medium
+37948,22,Male,Master,Single,0,Own,37411,Employed,104415,36,6.48,685,0.23,73869,5,0,Home improvement,3464.26,High
+23102,60,Female,Bachelor,Single,3,Rent,40473,Employed,147032,36,6.53,737,0.38,119110,4,0,Home improvement,4884.32,High
+28754,60,Female,PhD,Widowed,1,Rent,0,Unemployed,144004,48,6.06,655,0.33,88957,3,1,Debt consolidation,3727.3,High
+83100,35,Male,High School,Single,4,Own,0,Unemployed,110845,60,6.3,667,0.21,39538,2,1,Education,2429.35,High
+33111,30,Male,High School,Divorced,2,Rent,58237,Self-Employed,187633,60,7.03,748,0.29,37373,1,0,Home improvement,4226.43,Medium
+13809,51,Male,High School,Married,5,Own,19498,Unemployed,104927,36,6.74,670,0.25,38870,3,0,Debt consolidation,3503.98,High
+41079,46,Male,PhD,Married,0,Own,0,Unemployed,107129,36,4.08,689,0.29,111536,3,0,Education,3340.04,High
+35448,60,Female,Master,Married,2,Rent,85364,Employed,299072,36,4.4,757,0.37,130213,4,0,Car purchase,9404.15,High
+38816,38,Male,Bachelor,Married,0,Own,0,Unemployed,127539,48,7.18,667,0.2,122226,2,0,Car purchase,3420.17,High
+66917,57,Male,Bachelor,Single,3,Rent,70844,Employed,342276,60,3.17,783,0.28,192623,1,1,Education,6608.78,Medium
+41524,25,Male,PhD,Married,1,Own,37833,Self-Employed,134887,36,3.08,692,0.26,194367,4,0,Education,4093.07,High
+70786,28,Female,Bachelor,Divorced,5,Own,0,Unemployed,100446,60,4.66,652,0.26,80723,5,0,Debt consolidation,2064.17,High
+91324,41,Male,Master,Single,0,Own,85248,Self-Employed,312302,36,4.83,761,0.33,194778,1,0,Home improvement,9932.07,Medium
+53899,35,Male,PhD,Married,5,Rent,61557,Self-Employed,170086,60,6.4,717,0.21,107730,3,1,Education,3741.89,Medium
+75726,53,Male,PhD,Divorced,3,Own,0,Unemployed,110014,36,3.4,661,0.26,30171,1,0,Car purchase,3367.65,High
+24683,64,Male,PhD,Married,1,Rent,87298,Self-Employed,328887,60,7.66,780,0.27,126355,1,1,Home improvement,7580.85,Medium
+18250,21,Male,Master,Widowed,4,Own,15346,Unemployed,127772,60,6.48,685,0.29,89713,5,0,Car purchase,2819.5,High
+32509,36,Male,PhD,Divorced,2,Rent,46571,Employed,174549,48,7.78,739,0.38,196597,5,1,Home improvement,4768.1,High
+32984,65,Male,Bachelor,Married,0,Rent,97652,Self-Employed,183154,48,4.3,761,0.24,195371,1,1,Car purchase,4472.01,Medium
+29391,43,Female,Bachelor,Divorced,0,Rent,86364,Self-Employed,351462,36,7.74,770,0.23,153168,5,1,Car purchase,12029.76,Medium
+72116,38,Male,PhD,Divorced,5,Rent,0,Unemployed,68274,60,5.75,669,0.2,171879,2,1,Car purchase,1465.05,High
+22121,40,Male,Bachelor,Married,2,Rent,52739,Employed,241141,48,6.39,705,0.4,113395,2,1,Car purchase,6307.85,High
+89058,58,Male,Master,Widowed,1,Own,85304,Self-Employed,247735,36,4.42,772,0.26,126805,5,0,Home improvement,7794.02,Low
+68224,46,Female,Master,Married,5,Own,0,Unemployed,126962,60,3.43,663,0.26,147704,3,0,Medical expenses,2478.93,High
+59253,25,Male,PhD,Divorced,3,Rent,0,Unemployed,76117,36,7.16,668,0.31,21071,3,1,Education,2568.53,High
+83306,49,Male,High School,Single,1,Own,90989,Self-Employed,368691,60,5.36,791,0.33,85415,4,0,Education,7791.67,Medium
+94513,35,Male,High School,Divorced,3,Rent,15927,Unemployed,124130,48,7.34,690,0.34,191992,1,1,Medical expenses,3345.3,High
+85400,21,Female,Bachelor,Single,1,Own,58780,Self-Employed,135519,48,3.82,717,0.27,176788,3,0,Car purchase,3254.71,Medium
+48228,53,Male,Bachelor,Married,0,Rent,15285,Unemployed,139780,48,4.36,694,0.34,35122,5,1,Home improvement,3419.95,High
+11690,28,Female,Master,Widowed,3,Own,26678,Employed,78557,36,5.52,662,0.36,156448,5,0,Education,2543.5,High
+70357,24,Male,Bachelor,Single,3,Own,52644,Self-Employed,195045,36,7.09,738,0.3,99665,2,1,Debt consolidation,6570.31,Medium
+25544,34,Male,Bachelor,Married,2,Rent,39266,Employed,60302,48,6.45,700,0.22,14929,4,1,Debt consolidation,1580.41,Medium
+35736,26,Male,High School,Widowed,0,Own,26085,Employed,89537,60,3.05,656,0.36,167756,2,0,Home improvement,1719.86,High
+97896,42,Male,High School,Married,5,Own,15698,Unemployed,71044,60,6.9,689,0.25,159483,1,0,Medical expenses,1592.57,High
+11832,53,Male,Bachelor,Divorced,1,Rent,0,Unemployed,116085,60,5.37,694,0.32,125255,1,0,Car purchase,2454.23,High
+59756,47,Male,Bachelor,Widowed,0,Own,65266,Employed,128918,60,3.68,748,0.27,85568,5,0,Debt consolidation,2543.98,Medium
+53006,51,Male,PhD,Divorced,3,Own,0,Unemployed,122602,48,4.45,677,0.24,28247,4,1,Home improvement,3008.86,High
+11675,63,Female,High School,Widowed,3,Rent,49395,Employed,203497,48,6.48,706,0.35,54229,1,1,Home improvement,5338.4,Medium
+54385,32,Female,High School,Married,3,Own,75061,Self-Employed,337038,60,5.97,798,0.36,178776,4,1,Education,7294.06,High
+97382,58,Female,PhD,Divorced,1,Own,48007,Employed,165716,48,5.49,740,0.39,17791,1,0,Debt consolidation,4210.57,High
+75291,63,Male,Bachelor,Widowed,4,Own,59841,Employed,125253,36,6.31,733,0.35,132164,2,1,Education,4137.87,Medium
+74258,52,Female,Master,Single,0,Own,65141,Employed,217995,48,7.26,728,0.29,18613,2,1,Home improvement,5860.43,Medium
+74419,47,Male,Master,Widowed,3,Rent,18037,Unemployed,112378,60,7.27,682,0.21,79046,4,1,Medical expenses,2553.79,High
+98668,42,Female,Master,Single,0,Rent,77424,Employed,246052,48,7.05,787,0.21,173880,3,1,Debt consolidation,6571.64,Medium
+66118,42,Female,PhD,Divorced,0,Rent,57688,Employed,181815,60,3.42,744,0.21,89930,1,1,Home improvement,3548.42,Medium
+12583,54,Female,High School,Widowed,5,Own,18433,Unemployed,84946,36,6.48,687,0.2,92972,4,1,Car purchase,2818.32,High
+85043,26,Female,High School,Married,2,Own,0,Unemployed,130586,48,4.82,677,0.24,176577,1,0,Car purchase,3245.06,High
+44754,23,Female,PhD,Married,4,Rent,0,Unemployed,127576,48,4.37,686,0.36,134588,4,0,Car purchase,3122.42,High
+20048,61,Female,Master,Widowed,5,Own,67152,Employed,205460,48,6.12,729,0.33,153540,2,0,Medical expenses,5328.26,Medium
+34450,56,Female,Bachelor,Widowed,2,Own,0,Unemployed,97746,48,3.74,659,0.35,88715,4,1,Car purchase,2341.02,High
+18444,60,Male,PhD,Divorced,2,Rent,105013,Self-Employed,307609,36,5.03,757,0.23,17262,2,1,Education,9834.09,Medium
+73620,55,Female,PhD,Single,1,Rent,68941,Self-Employed,107639,48,6.95,717,0.33,56133,1,1,Debt consolidation,2865.89,Medium
+17251,25,Female,Master,Single,3,Own,11479,Unemployed,144926,36,4.18,686,0.35,41625,5,1,Education,4530.55,High
+21829,35,Male,Master,Divorced,4,Own,13865,Unemployed,78574,36,3.53,663,0.39,125205,4,1,Medical expenses,2413.75,High
+17330,51,Female,High School,Divorced,4,Own,104743,Self-Employed,214578,48,7.4,759,0.27,197608,3,1,Debt consolidation,5793.61,Medium
+94593,58,Male,High School,Married,2,Own,101874,Self-Employed,333662,48,7.52,793,0.22,71966,4,1,Debt consolidation,9042.24,Medium
+61508,36,Female,High School,Married,2,Rent,49380,Employed,183147,60,5.03,702,0.25,30996,4,1,Education,3820.14,Medium
+53610,65,Female,High School,Married,5,Own,11087,Unemployed,105164,60,6.65,685,0.35,128819,1,0,Home improvement,2335.52,High
+92595,48,Male,High School,Widowed,1,Own,88868,Self-Employed,171556,36,3.79,783,0.34,180178,2,1,Car purchase,5307.28,Medium
+69177,50,Male,Master,Married,5,Own,73019,Self-Employed,172124,48,4.84,775,0.38,159524,2,0,Debt consolidation,4280.15,High
+83207,61,Male,High School,Widowed,1,Own,0,Unemployed,102564,60,5.14,666,0.23,106448,2,0,Debt consolidation,2148.72,High
+78922,47,Female,PhD,Single,1,Rent,78243,Employed,363231,48,4.44,781,0.28,123064,2,0,Car purchase,8911.27,Low
+98760,32,Female,Bachelor,Widowed,1,Rent,58578,Self-Employed,161731,60,5.25,715,0.27,189376,4,0,Debt consolidation,3403.09,Medium
+71457,28,Female,PhD,Married,5,Own,16935,Unemployed,59575,36,5.78,653,0.27,71562,4,1,Medical expenses,1941.81,High
+97921,58,Male,High School,Divorced,4,Own,85866,Self-Employed,325967,48,3.66,785,0.21,57021,3,0,Medical expenses,7785.18,Low
+74597,41,Female,Bachelor,Single,2,Own,58532,Employed,130629,48,3.22,708,0.3,83662,3,1,Car purchase,3071.96,Medium
+44500,59,Female,Master,Widowed,1,Own,0,Unemployed,122833,60,6.18,678,0.21,48960,1,0,Home improvement,2679.81,High
+14700,50,Female,Bachelor,Widowed,3,Rent,62673,Self-Employed,215741,48,7.94,735,0.3,139233,1,0,Debt consolidation,5922.09,Medium
+55823,25,Male,Master,Married,1,Own,0,Unemployed,126486,36,5.63,686,0.24,30141,2,1,Debt consolidation,4106.93,High
+53077,21,Female,High School,Widowed,2,Rent,35038,Self-Employed,53784,36,5.3,695,0.33,129027,3,0,Car purchase,1731.55,High
+15747,61,Female,Master,Married,1,Rent,14635,Unemployed,57279,60,3.35,688,0.28,114558,3,0,Home improvement,1114.55,High
+62286,25,Male,Bachelor,Married,3,Own,51206,Self-Employed,140405,36,4.49,727,0.35,91291,5,0,Car purchase,4425.49,Medium
+97231,26,Female,Bachelor,Widowed,3,Own,38797,Self-Employed,123801,60,5.12,698,0.28,106530,5,0,Education,2591.57,High
+92665,47,Male,High School,Divorced,3,Rent,12540,Unemployed,119111,60,6.24,655,0.26,124650,1,1,Car purchase,2604.56,High
+29478,28,Female,Bachelor,Widowed,2,Rent,0,Unemployed,117294,36,5.55,676,0.22,183239,5,1,Car purchase,3800.65,High
+43405,57,Male,High School,Single,5,Own,91522,Employed,197764,48,3.23,776,0.38,88026,3,1,Education,4652.4,High
+91764,36,Female,Bachelor,Married,1,Rent,19896,Unemployed,138265,36,5.17,651,0.2,40586,1,0,Education,4436.39,High
+70314,64,Female,PhD,Divorced,4,Own,16471,Unemployed,61486,36,3.68,662,0.22,14164,2,0,Home improvement,1896.5,High
+73060,61,Male,Bachelor,Widowed,5,Rent,59720,Employed,221484,36,5.37,701,0.22,49956,4,1,Education,7143.47,Medium
+12572,48,Male,Bachelor,Divorced,4,Own,60939,Employed,102064,36,6.15,745,0.29,118969,4,1,Debt consolidation,3358.19,Medium
+73897,45,Female,PhD,Married,5,Rent,10311,Unemployed,125550,48,5.77,667,0.38,119350,4,0,Education,3219.31,High
+91618,61,Female,PhD,Widowed,0,Rent,107592,Self-Employed,200384,48,4.72,764,0.3,164051,3,1,Home improvement,4962.84,Medium
+48455,65,Female,PhD,Divorced,3,Rent,13394,Unemployed,140531,60,3.43,680,0.23,62293,2,1,Debt consolidation,2743.87,High
+64523,51,Female,Bachelor,Married,4,Rent,63513,Employed,168369,48,6.38,711,0.37,141983,1,0,Car purchase,4402.85,High
+66442,27,Male,High School,Married,3,Own,55719,Self-Employed,193124,36,6.85,735,0.25,49630,5,0,Debt consolidation,6466.97,Medium
+67386,49,Male,High School,Single,4,Rent,0,Unemployed,132565,36,7.35,673,0.23,86578,4,1,Debt consolidation,4494.32,High
+30223,61,Female,Master,Married,0,Rent,87246,Self-Employed,351646,36,4.23,780,0.27,142388,2,0,Car purchase,11007.5,Low
+58815,65,Female,Master,Married,1,Own,49043,Employed,212413,48,7.59,729,0.39,145307,3,0,Education,5768.78,High
+29082,20,Male,High School,Divorced,2,Own,32111,Employed,58056,48,6.8,692,0.38,49571,5,0,Medical expenses,1538.48,High
+48761,46,Female,Master,Divorced,2,Rent,99498,Self-Employed,288357,60,7.6,794,0.28,178789,2,1,Car purchase,6632.21,Medium
+95033,45,Male,Master,Single,0,Own,93760,Self-Employed,338450,60,7.4,783,0.4,84429,2,0,Medical expenses,7727.94,High
+82323,39,Female,Bachelor,Single,0,Own,44959,Employed,210820,60,3.55,703,0.37,78093,5,1,Debt consolidation,4137.34,High
+16256,61,Male,PhD,Divorced,4,Rent,82215,Self-Employed,211891,60,7.95,786,0.34,174559,5,0,Car purchase,4935.29,Medium
+49216,38,Male,PhD,Married,0,Own,0,Unemployed,97352,48,3.49,695,0.29,118017,1,0,Debt consolidation,2311.3,High
+65690,28,Female,Bachelor,Widowed,0,Own,18622,Unemployed,127101,60,5.59,675,0.37,163171,4,1,Education,2710.43,High
+74165,46,Male,Bachelor,Married,3,Own,73085,Employed,284528,60,3.59,763,0.29,18547,2,1,Debt consolidation,5593.35,Medium
+88852,46,Male,High School,Divorced,4,Own,67130,Employed,140187,36,4.86,723,0.26,137382,1,0,Home improvement,4461.84,Medium
+87283,46,Male,Master,Divorced,1,Rent,0,Unemployed,66033,60,4.74,652,0.28,160224,3,1,Car purchase,1361.38,High
+59454,50,Male,Bachelor,Widowed,3,Own,96776,Employed,340805,48,3.45,789,0.33,117381,4,0,Education,8079.92,Medium
+54433,54,Male,PhD,Divorced,5,Rent,86347,Employed,156502,60,6.15,799,0.34,157074,1,0,Home improvement,3410.44,Medium
+91094,54,Male,Bachelor,Widowed,4,Rent,83139,Employed,395414,60,3.9,751,0.25,63950,2,1,Debt consolidation,7875.33,Medium
+79932,58,Female,PhD,Single,3,Rent,88640,Self-Employed,197319,48,3.12,783,0.26,77417,1,0,Debt consolidation,4623.84,Low
+81012,30,Female,Bachelor,Married,2,Rent,45053,Employed,206765,60,3.85,739,0.39,57568,1,0,Car purchase,4109.45,High
+61110,26,Female,Bachelor,Widowed,2,Own,57123,Self-Employed,131710,36,4.01,748,0.32,71994,4,1,Debt consolidation,4098.74,Medium
+45296,23,Female,PhD,Widowed,0,Own,31676,Employed,133039,36,7.57,651,0.25,163661,1,0,Medical expenses,4534.78,High
+95400,28,Female,PhD,Widowed,0,Rent,31116,Employed,120836,36,6.91,684,0.39,155529,4,0,Debt consolidation,4052.37,High
+70902,59,Female,Bachelor,Single,0,Own,99181,Self-Employed,215769,60,4.9,772,0.37,65772,5,1,Debt consolidation,4477.21,High
+31157,54,Male,Master,Single,3,Rent,87518,Employed,295877,48,7.39,763,0.32,93441,3,1,Education,7986.21,Medium
+45784,35,Female,Master,Married,3,Own,57670,Employed,135055,60,7.61,738,0.3,12510,2,1,Medical expenses,3107.39,Medium
+74091,45,Male,High School,Single,5,Own,12022,Unemployed,99332,60,4.79,661,0.37,192722,1,0,Education,2052.03,High
+58559,32,Female,High School,Married,5,Rent,72300,Self-Employed,391539,60,4.79,755,0.36,173902,3,0,Home improvement,8088.54,High
+74724,43,Male,Master,Widowed,5,Rent,56425,Employed,203831,36,7.35,736,0.3,54689,5,0,Medical expenses,6910.44,Medium
+98103,63,Male,High School,Married,5,Rent,57014,Employed,249396,36,7.41,746,0.36,60292,1,1,Medical expenses,8467.69,High
+69497,20,Female,High School,Divorced,3,Own,33988,Self-Employed,139151,60,5.33,673,0.3,21394,2,0,Car purchase,2937.25,High
+65058,54,Female,Master,Single,3,Rent,65361,Self-Employed,249899,36,7.95,714,0.4,121101,1,0,Home improvement,8597.22,High
+31558,41,Female,High School,Single,0,Own,96478,Self-Employed,156297,60,6.99,771,0.37,74789,1,1,Home improvement,3515.38,High
+54669,23,Female,Bachelor,Single,4,Own,35245,Employed,108517,60,3.62,653,0.38,108931,3,0,Home improvement,2135.98,High
+18126,48,Male,Master,Widowed,0,Rent,0,Unemployed,88655,48,5.01,689,0.35,71108,5,0,Education,2217.11,High
+60321,49,Female,High School,Divorced,5,Rent,86948,Self-Employed,236034,60,3.96,756,0.2,196987,1,0,Medical expenses,4712.81,Low
+26512,60,Female,Master,Widowed,3,Own,55935,Employed,136090,36,3.3,719,0.32,144512,3,1,Medical expenses,4154.53,Medium
+80928,29,Male,PhD,Divorced,4,Own,42085,Self-Employed,102118,60,5.93,743,0.23,72229,5,0,Education,2206.6,Medium
+55064,32,Male,Bachelor,Single,2,Rent,17794,Unemployed,128612,60,4.66,687,0.31,97991,5,1,Education,2642.98,High
+53072,30,Male,PhD,Single,3,Rent,55931,Employed,158464,60,4.15,739,0.24,136024,3,1,Home improvement,3189.09,Medium
+62469,31,Male,Master,Single,0,Own,53176,Employed,130196,36,4.45,712,0.33,104348,1,0,Home improvement,4099.37,Medium
+35929,38,Male,Bachelor,Divorced,5,Rent,77772,Self-Employed,295360,36,3.89,751,0.24,78626,1,0,Home improvement,9161.9,Low
+59666,61,Male,Master,Married,2,Own,64224,Employed,197609,60,3.86,733,0.4,173369,4,0,Debt consolidation,3929.13,High
+28931,28,Male,Bachelor,Widowed,5,Own,49646,Self-Employed,212601,60,4.22,702,0.35,163963,2,1,Home improvement,4291,Medium
+52949,35,Male,Master,Married,4,Own,58832,Employed,121340,48,6.95,739,0.21,143330,4,1,Education,3230.68,Medium
+78012,49,Male,Master,Divorced,4,Own,18106,Unemployed,85171,60,5,700,0.32,19595,2,0,Home improvement,1774.4,High
+69255,35,Female,Bachelor,Divorced,3,Own,12575,Unemployed,83361,60,3.42,698,0.22,126524,5,1,Home improvement,1626.93,High
+86541,22,Female,Master,Widowed,3,Own,43400,Self-Employed,196341,48,4.59,724,0.2,125785,2,1,Debt consolidation,4841.44,Medium
+57067,25,Female,High School,Divorced,1,Rent,26168,Employed,97216,36,5.73,671,0.24,96308,3,1,Car purchase,3164.65,High
+34987,65,Male,Master,Single,2,Own,111323,Self-Employed,255856,48,7.11,798,0.33,133733,5,0,Education,6846.28,Medium
+39829,34,Male,PhD,Married,4,Own,17559,Unemployed,61255,48,7.23,677,0.35,192961,4,0,Education,1645.21,High
+68978,55,Male,Master,Married,4,Rent,108352,Self-Employed,152537,48,7.05,772,0.27,119876,4,1,Medical expenses,4074.01,Medium
+49274,40,Male,High School,Married,1,Own,19879,Unemployed,99980,36,7.74,654,0.31,59371,4,0,Car purchase,3422.09,High
+84647,48,Female,High School,Married,0,Rent,77081,Employed,330623,60,5.44,761,0.24,111159,3,0,Home improvement,7009.21,Low
+48155,62,Male,PhD,Single,2,Rent,61415,Employed,207704,48,3.79,707,0.23,119684,4,0,Education,4983.17,Medium
+37063,28,Male,Master,Widowed,5,Own,34891,Employed,125378,48,5.94,682,0.34,130312,3,0,Debt consolidation,3232.66,High
+28702,48,Male,PhD,Married,4,Own,18043,Unemployed,110646,60,3.2,655,0.26,129618,3,1,Education,2139.16,High
+90350,31,Female,Bachelor,Married,4,Own,62604,Self-Employed,148088,60,5.84,725,0.34,21446,2,0,Car purchase,3188.83,Medium
+92324,54,Female,High School,Married,3,Own,11986,Unemployed,60031,36,5.52,699,0.27,128210,2,1,Home improvement,1943.67,High
+76330,22,Female,High School,Single,5,Own,41260,Self-Employed,204685,36,4.98,700,0.25,195886,2,1,Education,6535.14,Medium
+73538,49,Male,High School,Married,5,Own,65426,Employed,173175,36,3.85,701,0.32,56461,3,0,Medical expenses,5366.02,Medium
+61229,30,Male,High School,Divorced,1,Own,55830,Self-Employed,156799,60,3.17,743,0.31,125882,1,0,Education,3027.53,Medium
+50412,48,Male,High School,Single,3,Rent,62276,Employed,162531,36,3.46,726,0.21,13816,3,0,Debt consolidation,4983.38,Medium
+38910,26,Male,Bachelor,Single,3,Rent,40573,Self-Employed,247339,60,3.95,713,0.39,113563,4,0,Home improvement,4936.47,High
+38020,26,Female,Master,Married,0,Own,0,Unemployed,101011,36,5.29,654,0.33,82995,5,1,Debt consolidation,3251.15,High
+18825,33,Female,Master,Widowed,0,Rent,53104,Self-Employed,185027,60,6.48,743,0.38,191854,2,1,Home improvement,4082.93,High
+93277,64,Female,PhD,Single,2,Rent,19585,Unemployed,100118,60,6.2,664,0.3,194714,1,0,Debt consolidation,2185.91,High
+90786,27,Female,Bachelor,Widowed,1,Rent,27253,Employed,99089,48,4.48,659,0.28,178306,1,0,Medical expenses,2434.29,High
+68160,41,Male,Master,Divorced,5,Rent,16797,Unemployed,148376,36,4.15,696,0.27,73504,2,0,Home improvement,4634.69,High
+39156,58,Female,Master,Married,3,Rent,97007,Employed,278881,36,7.77,753,0.33,47101,2,0,Debt consolidation,9552.45,Medium
+32764,57,Male,Bachelor,Single,3,Own,70758,Self-Employed,339182,36,4.22,761,0.32,89456,3,1,Home improvement,10614.51,Medium
+45633,50,Male,Master,Widowed,3,Rent,88926,Self-Employed,260807,60,6.05,777,0.35,136353,1,1,Education,5661.69,Medium
+20909,39,Male,Bachelor,Divorced,3,Own,64863,Self-Employed,174245,48,5.81,730,0.21,45823,4,0,Home improvement,4473.74,Medium
+34854,20,Male,Master,Widowed,3,Own,54320,Self-Employed,197817,48,5.45,741,0.4,28673,4,0,Debt consolidation,5019.61,High
+60439,56,Male,Bachelor,Widowed,2,Own,18005,Unemployed,141285,36,6.25,677,0.35,73531,4,0,Car purchase,4660.44,High
+92700,65,Male,Bachelor,Divorced,4,Own,12414,Unemployed,82429,60,5.89,692,0.37,13234,1,0,Education,1778.41,High
+62122,65,Male,Bachelor,Widowed,1,Own,105340,Self-Employed,229225,60,7.84,792,0.38,163637,3,1,Debt consolidation,5318.02,High
+24322,60,Female,Bachelor,Divorced,5,Rent,16520,Unemployed,50841,36,7.08,650,0.22,192535,4,1,Car purchase,1712.21,High
+66485,30,Male,Master,Married,5,Rent,50940,Employed,147706,60,7.74,728,0.31,65724,2,0,Debt consolidation,3414.47,Medium
+33950,32,Female,PhD,Widowed,5,Rent,0,Unemployed,88420,36,4.89,667,0.21,17776,5,0,Education,2816.42,High
+73595,63,Male,High School,Single,2,Rent,0,Unemployed,62693,36,5.61,650,0.28,146334,3,1,Education,2034.56,High
+54175,58,Female,Master,Divorced,5,Own,113532,Self-Employed,212808,48,6.33,774,0.32,103330,3,0,Debt consolidation,5556.06,Medium
+69889,64,Female,Bachelor,Single,4,Rent,0,Unemployed,98290,48,6.09,692,0.37,144981,4,0,Debt consolidation,2546.53,High
+93633,40,Male,Master,Single,5,Own,0,Unemployed,129529,48,5,689,0.36,101313,4,1,Debt consolidation,3238.23,High
+60444,38,Male,Bachelor,Single,1,Own,44874,Employed,243850,48,3.84,728,0.39,136397,5,0,Home improvement,5860.53,High
+37740,30,Male,High School,Widowed,5,Rent,45698,Employed,200529,48,4.1,716,0.33,185794,1,0,Medical expenses,4862.83,Medium
+93040,51,Male,Master,Married,4,Rent,15623,Unemployed,144036,60,6.68,674,0.33,157298,4,0,Home improvement,3202.4,High
+43959,27,Female,High School,Single,0,Own,0,Unemployed,147598,36,5.86,658,0.37,109665,5,0,Car purchase,4820.71,High
+18111,57,Male,PhD,Widowed,2,Own,0,Unemployed,63970,48,3.05,679,0.26,87810,2,1,Education,1495.3,High
+29323,58,Female,Bachelor,Single,4,Own,92923,Self-Employed,330512,36,4.37,795,0.31,175433,2,1,Car purchase,10384.5,Medium
+59375,23,Female,Bachelor,Married,5,Rent,0,Unemployed,113898,60,4.96,692,0.38,51731,1,1,Car purchase,2369.08,High
+65369,63,Female,Master,Widowed,3,Rent,14637,Unemployed,141275,36,6.51,685,0.28,44314,3,0,Car purchase,4690.72,High
+69969,61,Male,Bachelor,Widowed,5,Own,118800,Self-Employed,187964,36,4.09,797,0.24,180718,1,1,Medical expenses,5861.87,Medium
+23362,63,Male,PhD,Widowed,5,Rent,46294,Employed,193214,48,3.9,703,0.22,145118,3,1,Home improvement,4653.24,Medium
+92178,45,Male,High School,Single,1,Own,79918,Self-Employed,330350,60,7.77,791,0.35,191349,1,1,Education,7644.85,Medium
+46073,60,Female,Master,Single,0,Rent,47998,Employed,228245,60,6.34,732,0.24,163839,5,1,Car purchase,5009.98,Medium
+22393,57,Male,PhD,Widowed,5,Own,97448,Self-Employed,182829,36,4.63,795,0.38,150905,2,1,Debt consolidation,5784,High
+61615,55,Female,High School,Single,1,Rent,96492,Employed,307051,60,3.9,785,0.29,92390,1,0,Home improvement,6115.43,Low
+85377,33,Male,High School,Divorced,0,Rent,51585,Employed,178270,48,7.83,710,0.28,182532,1,0,Car purchase,4877.17,Medium
+16051,53,Female,PhD,Married,4,Own,15127,Unemployed,129452,60,5.55,694,0.22,21727,2,0,Home improvement,2756.25,High
+28568,39,Male,Bachelor,Married,4,Own,54210,Self-Employed,210628,36,5.75,716,0.28,52813,4,1,Debt consolidation,6860.04,Medium
+43315,63,Female,Bachelor,Married,0,Own,13156,Unemployed,123877,60,6.24,682,0.32,120018,2,1,Education,2708.78,High
+59668,21,Male,High School,Divorced,0,Rent,18984,Unemployed,58645,48,6.2,673,0.38,81631,2,0,Car purchase,1524.77,High
+11292,26,Female,Bachelor,Widowed,0,Rent,33625,Employed,145463,48,5.94,681,0.22,101462,5,1,Medical expenses,3750.52,High
+45527,58,Male,High School,Married,2,Own,62621,Employed,239377,60,5.97,725,0.3,43442,3,0,Medical expenses,5180.52,Medium
+30380,62,Male,Bachelor,Widowed,4,Own,87541,Employed,317560,48,6.54,765,0.34,119640,4,0,Education,8346.54,Medium
+56399,49,Female,Master,Widowed,4,Rent,90828,Self-Employed,374898,36,7.74,776,0.35,33629,1,0,Home improvement,12831.93,Medium
+22272,30,Male,High School,Divorced,4,Own,48893,Employed,233348,60,3.68,731,0.3,187412,5,0,Education,4604.73,Medium
+11821,59,Male,High School,Widowed,5,Own,88429,Employed,323322,60,6.42,752,0.32,54179,5,0,Home improvement,7118.47,Medium
+19846,43,Male,Master,Single,3,Own,75586,Self-Employed,247854,36,4.69,793,0.25,151326,1,1,Car purchase,7853.53,Medium
+73324,38,Female,Bachelor,Single,5,Own,44988,Employed,235142,36,7.68,739,0.37,25072,3,0,Medical expenses,8036.63,High
+70339,41,Female,Master,Single,0,Own,13050,Unemployed,96469,36,3.51,681,0.24,148699,5,0,Education,2961.87,High
+26232,51,Male,Bachelor,Divorced,1,Own,84530,Self-Employed,228455,48,5.14,761,0.31,80643,1,1,Education,5738.03,Medium
+31211,28,Female,PhD,Single,2,Rent,28105,Employed,87342,36,3.67,676,0.35,18285,2,0,Education,2693.29,High
+97194,37,Male,PhD,Widowed,4,Own,12087,Unemployed,148446,48,5.51,697,0.37,111934,2,0,Debt consolidation,3774.24,High
+12772,28,Male,Master,Single,5,Rent,36113,Employed,94845,48,7.88,697,0.2,135879,3,1,Education,2598.75,High
+20828,47,Male,Bachelor,Married,1,Own,78317,Employed,219082,60,4.24,777,0.24,195194,1,0,Home improvement,4425.46,Low
+87489,60,Male,Bachelor,Single,1,Own,57947,Employed,150378,36,5.13,739,0.24,23357,4,1,Medical expenses,4820.03,Medium
+50166,64,Male,Bachelor,Divorced,3,Own,73414,Employed,261954,60,3.26,757,0.25,83546,3,1,Home improvement,5077.54,Medium
+51922,23,Male,High School,Single,0,Own,29674,Employed,111873,48,7.54,656,0.29,76129,4,1,Car purchase,3033.62,High
+49892,27,Male,High School,Married,2,Own,15920,Unemployed,81228,60,4.38,687,0.28,37883,2,0,Debt consolidation,1650.28,High
+86881,61,Male,Bachelor,Widowed,0,Rent,15618,Unemployed,145073,48,7.95,662,0.31,50284,1,0,Home improvement,3983.46,High
+64815,55,Female,Master,Divorced,3,Rent,64437,Self-Employed,226568,48,5.62,732,0.36,53761,5,1,Home improvement,5781.26,High
+47965,22,Male,Bachelor,Widowed,3,Rent,32172,Employed,148399,60,4.92,699,0.28,169178,3,0,Home improvement,3081.75,High
+10471,30,Male,High School,Widowed,4,Own,77933,Self-Employed,207759,48,6.54,785,0.22,68701,1,0,Car purchase,5460.6,Low
+15123,60,Male,Master,Married,2,Rent,0,Unemployed,120070,36,3.01,672,0.33,106760,3,0,Medical expenses,3636.45,High
+44608,28,Female,Master,Divorced,0,Rent,37185,Self-Employed,145745,48,3.88,651,0.31,162898,1,1,Car purchase,3507.6,High
+92081,60,Male,PhD,Married,2,Own,78119,Employed,315098,48,3.78,764,0.35,123745,3,0,Education,7557.1,Medium
+22280,51,Male,PhD,Married,1,Rent,0,Unemployed,134877,48,3.11,660,0.38,113336,5,0,Debt consolidation,3159.49,High
+28811,24,Female,Bachelor,Widowed,5,Own,36867,Employed,119045,36,6.63,650,0.32,109057,4,0,Debt consolidation,3964.53,High
+11776,61,Male,Bachelor,Married,0,Own,81116,Employed,307191,36,6.96,750,0.39,37876,5,1,Debt consolidation,10314.79,High
+36518,28,Female,PhD,Married,2,Own,35063,Self-Employed,81956,36,5.72,667,0.33,42263,1,0,Debt consolidation,2667.21,High
+81387,38,Male,PhD,Married,0,Rent,42427,Employed,211970,48,3.74,741,0.26,189415,4,0,Education,5076.68,Medium
+32224,27,Male,High School,Divorced,2,Rent,0,Unemployed,97250,36,7.48,688,0.23,122362,5,1,Medical expenses,3307.58,High
+33771,63,Female,Bachelor,Divorced,4,Own,117370,Self-Employed,177242,48,7.58,792,0.27,79573,1,0,Home improvement,4812.12,Low
+95964,29,Female,Bachelor,Widowed,3,Own,26854,Employed,125739,48,7.8,667,0.23,94686,2,0,Education,3436.87,High
+56217,40,Female,PhD,Widowed,5,Own,0,Unemployed,135715,36,4.92,685,0.3,149924,4,0,Education,4326.29,High
+20959,57,Female,Bachelor,Single,1,Own,53322,Employed,104496,48,5.79,708,0.38,25617,3,1,Home improvement,2681.19,High
+48626,49,Male,PhD,Married,1,Rent,74477,Employed,186123,36,7.81,795,0.23,16906,4,1,Debt consolidation,6381.43,Medium
+23894,62,Male,PhD,Married,0,Rent,69258,Self-Employed,120707,36,3.39,736,0.37,119181,2,0,Education,3693.97,High
+28364,53,Female,PhD,Widowed,5,Own,111209,Self-Employed,319042,60,3.07,757,0.23,178415,1,0,Medical expenses,6133.58,Low
+31017,20,Female,PhD,Widowed,4,Own,18222,Unemployed,142976,36,5.12,660,0.25,34100,5,1,Home improvement,4581.59,High
+37769,45,Male,Bachelor,Widowed,1,Rent,17674,Unemployed,91050,60,6.21,674,0.23,107380,4,0,Car purchase,1988.68,High
+24208,26,Male,Master,Divorced,0,Rent,35333,Self-Employed,120984,36,3.33,688,0.2,91033,2,0,Debt consolidation,3696.4,High
+41501,37,Male,High School,Widowed,0,Rent,53054,Self-Employed,180898,36,7.9,748,0.26,114369,5,0,Car purchase,6215.86,Medium
+61202,42,Male,High School,Divorced,3,Rent,0,Unemployed,126962,48,5.38,652,0.26,49724,4,0,Debt consolidation,3214.25,High
+40352,33,Male,Bachelor,Divorced,3,Rent,59530,Self-Employed,194454,60,7.28,727,0.21,196846,4,0,Home improvement,4420.59,Medium
+90004,58,Male,Bachelor,Widowed,0,Rent,90221,Employed,378185,48,5.74,800,0.38,140786,1,1,Car purchase,9687.84,High
+32245,38,Male,High School,Divorced,4,Own,52923,Self-Employed,118647,36,6.55,729,0.25,134062,3,1,Home improvement,3943.36,Medium
+26248,56,Female,High School,Divorced,2,Own,116164,Self-Employed,312446,60,3.64,773,0.3,173743,3,1,Debt consolidation,6155.19,Medium
+99417,46,Female,Master,Single,4,Rent,0,Unemployed,70258,36,4.45,660,0.31,29130,2,1,Education,2212.15,High
+97706,25,Female,PhD,Widowed,5,Own,26406,Employed,73628,60,3.54,675,0.35,62290,4,1,Debt consolidation,1444.34,High
+51587,41,Female,Bachelor,Widowed,0,Own,71254,Self-Employed,292889,36,7.74,759,0.33,93935,5,0,Medical expenses,10024.94,Medium
+59844,23,Female,PhD,Widowed,1,Rent,39221,Employed,53007,60,5.11,666,0.33,31912,2,0,Car purchase,1109.17,High
+63093,25,Female,PhD,Widowed,4,Rent,0,Unemployed,57044,36,7.47,677,0.27,87831,2,0,Car purchase,1939.65,High
+64932,50,Female,Bachelor,Widowed,2,Own,76759,Employed,355277,60,3.99,796,0.33,171615,2,1,Car purchase,7102.58,Medium
+11859,29,Female,Bachelor,Widowed,2,Rent,16658,Unemployed,118248,60,3.02,678,0.39,42956,4,0,Debt consolidation,2268.39,High
+38655,32,Female,Bachelor,Widowed,1,Own,41263,Employed,103767,48,7.07,701,0.26,90469,5,0,Education,2773.17,Medium
+95054,49,Female,PhD,Divorced,2,Own,0,Unemployed,73044,48,5.14,661,0.31,52639,5,1,Education,1834.62,High
+47359,62,Female,Master,Single,0,Rent,82573,Employed,154306,60,7.66,756,0.3,173532,5,0,Education,3556.75,Low
+75976,57,Male,Master,Widowed,1,Rent,96148,Self-Employed,249897,36,3.98,780,0.39,101911,4,1,Education,7770.41,High
+10996,43,Male,Master,Divorced,5,Own,97475,Self-Employed,386630,48,6.37,750,0.38,118673,1,0,Debt consolidation,10107.15,High
+30103,43,Female,Master,Married,4,Own,68210,Employed,202593,36,6.08,725,0.37,161480,4,0,Education,6654.05,High
+32769,45,Female,Bachelor,Widowed,1,Rent,0,Unemployed,132764,60,6.92,698,0.33,78217,5,0,Car purchase,2978.34,High
+36707,25,Male,High School,Widowed,0,Rent,35126,Employed,142743,60,7.6,655,0.31,16629,2,1,Car purchase,3283.09,High
+34452,35,Male,Master,Married,4,Rent,16194,Unemployed,136410,36,4.37,659,0.33,177349,5,0,Debt consolidation,4285.93,High
+70178,58,Male,High School,Married,2,Own,46080,Employed,120285,48,7.22,713,0.28,138722,1,1,Debt consolidation,3229.65,Medium
+73768,60,Male,Bachelor,Widowed,3,Own,0,Unemployed,73567,48,3.05,661,0.33,175468,5,0,Debt consolidation,1719.63,High
+54932,42,Female,High School,Married,4,Own,56319,Employed,107747,60,3.12,732,0.35,66703,3,0,Home improvement,2075.93,Medium
+13866,40,Male,Bachelor,Single,5,Rent,78967,Self-Employed,276241,36,7.77,772,0.34,180898,3,1,Education,9462.02,Medium
+67155,52,Female,Bachelor,Divorced,1,Rent,14605,Unemployed,63486,60,6.97,687,0.26,63957,4,1,Education,1426.85,High
+65540,58,Female,Master,Single,4,Own,73088,Self-Employed,298672,48,4.87,790,0.36,127808,2,0,Medical expenses,7434.44,High
+43169,57,Female,Master,Divorced,3,Rent,51790,Employed,184588,48,6.95,722,0.25,66409,3,1,Home improvement,4914.66,Medium
+51215,27,Male,Master,Single,5,Own,32624,Employed,124379,48,7.49,685,0.21,84347,5,0,Medical expenses,3367.56,High
+38503,26,Female,High School,Widowed,5,Own,56653,Self-Employed,183917,36,3.99,731,0.3,81936,4,0,Debt consolidation,5720.33,Medium
+69347,30,Female,PhD,Married,4,Rent,50584,Self-Employed,101218,48,4.42,725,0.21,149845,5,0,Car purchase,2481.53,Medium
+94512,21,Male,PhD,Single,3,Own,40393,Self-Employed,190655,48,3.4,749,0.26,170516,1,1,Car purchase,4512.17,Medium
+69582,51,Male,Master,Single,0,Rent,94097,Employed,152725,36,3.53,770,0.37,199858,4,0,Home improvement,4691.63,High
+21536,32,Female,High School,Single,2,Rent,36572,Employed,89883,36,4.32,694,0.32,109498,3,0,Home improvement,2820.33,High
+86474,49,Male,Bachelor,Divorced,1,Own,0,Unemployed,118388,60,4.2,680,0.33,83542,3,1,Home improvement,2387.49,High
+22032,36,Female,High School,Divorced,4,Rent,0,Unemployed,59849,48,3.3,650,0.33,132722,4,0,Education,1411.44,High
+23701,41,Male,Master,Divorced,5,Own,0,Unemployed,67047,36,7.58,674,0.4,172654,5,0,Education,2285.93,High
+34635,24,Female,PhD,Married,5,Own,0,Unemployed,110418,36,6.73,665,0.2,130808,2,1,Debt consolidation,3686.43,High
+72421,62,Female,Master,Divorced,0,Rent,88277,Self-Employed,205591,36,4.98,777,0.3,23934,4,1,Car purchase,6564.06,Medium
+22820,23,Female,PhD,Married,2,Rent,35788,Self-Employed,127863,48,5.65,681,0.3,38622,1,0,Debt consolidation,3265.83,High
+38780,27,Male,High School,Divorced,1,Rent,11655,Unemployed,79683,60,6.5,675,0.28,36556,2,1,Education,1759.67,High
+36962,30,Male,Master,Divorced,5,Own,0,Unemployed,74258,60,7.54,689,0.3,90038,2,0,Car purchase,1704.22,High
+99318,24,Male,Bachelor,Divorced,3,Rent,35912,Employed,112206,48,4.67,661,0.39,30179,2,0,Medical expenses,2774.29,High
+56156,50,Male,PhD,Married,3,Rent,93669,Employed,154558,60,6.4,768,0.37,147696,5,0,Home improvement,3400.28,High
+22308,26,Female,Master,Widowed,3,Own,14216,Unemployed,83231,48,5.29,672,0.26,97487,5,1,Debt consolidation,2100.89,High
+45381,63,Male,Bachelor,Widowed,1,Rent,92625,Self-Employed,158101,36,5.89,794,0.39,104219,2,0,Home improvement,5167.71,High
+59516,60,Male,Master,Widowed,4,Rent,119659,Self-Employed,328013,48,7.44,775,0.32,82416,3,0,Debt consolidation,8867.28,Medium
+85958,53,Female,High School,Widowed,3,Own,67221,Self-Employed,102184,48,7.64,709,0.29,49381,5,1,Medical expenses,2779.4,Medium
+83156,62,Male,Master,Widowed,2,Rent,61021,Self-Employed,218976,36,4.09,737,0.22,138022,3,0,Education,6829.01,Medium
+56170,62,Male,High School,Divorced,1,Own,111463,Self-Employed,375184,60,6.33,799,0.31,32545,3,0,Home improvement,8232.16,Medium
+66629,57,Male,Master,Married,0,Own,76300,Self-Employed,362784,60,6.19,777,0.28,35726,3,1,Medical expenses,7917.76,Medium
+50728,31,Female,Master,Married,5,Rent,54446,Self-Employed,209133,60,4,719,0.22,158547,4,0,Education,4182.66,Medium
+67264,26,Male,PhD,Divorced,4,Own,41606,Self-Employed,212110,48,5.1,726,0.29,156514,1,1,Debt consolidation,5320.43,Medium
+28426,59,Female,Bachelor,Divorced,1,Own,89501,Employed,371539,48,3.63,792,0.2,145792,4,0,Debt consolidation,8864.3,Low
+17168,37,Male,Master,Single,2,Own,0,Unemployed,65917,60,5.92,682,0.35,23898,2,0,Medical expenses,1423.81,High
+74920,28,Male,Bachelor,Divorced,5,Own,10105,Unemployed,131744,60,4,654,0.2,168280,1,0,Home improvement,2634.88,High
+36777,26,Female,High School,Widowed,3,Rent,29913,Employed,103026,48,7.91,665,0.37,153319,3,1,Medical expenses,2825.49,High
+26147,47,Male,High School,Married,1,Rent,66761,Employed,243309,36,5.38,718,0.26,36219,5,1,Car purchase,7849.42,Medium
+97516,37,Female,PhD,Single,3,Own,54855,Self-Employed,107332,48,5.29,736,0.28,162184,3,0,Medical expenses,2709.24,Medium
+68258,22,Female,Bachelor,Widowed,5,Own,30298,Self-Employed,70750,48,5.5,682,0.24,195132,5,1,Medical expenses,1798.23,High
+18226,31,Male,Master,Divorced,3,Rent,75721,Self-Employed,349913,60,4.51,775,0.21,179118,4,1,Education,7146.97,Medium
+89408,62,Male,Master,Married,5,Own,19514,Unemployed,126610,60,7.15,654,0.21,51727,2,0,Debt consolidation,2864.55,High
+75461,63,Female,Master,Married,5,Rent,98968,Employed,380884,36,6.64,774,0.35,120115,1,0,Medical expenses,12687.67,Medium
+42831,27,Male,High School,Widowed,2,Rent,30261,Employed,64111,60,5.25,658,0.4,160412,5,0,Home improvement,1349,High
+43095,51,Female,Master,Married,1,Rent,113335,Self-Employed,288550,36,3.43,751,0.33,185284,1,0,Debt consolidation,8840.05,Medium
+28423,20,Female,PhD,Single,2,Rent,18653,Unemployed,74921,36,5.85,680,0.3,103450,5,0,Debt consolidation,2446.38,High
+67524,47,Female,High School,Single,1,Own,53864,Employed,230734,36,3.26,734,0.27,68725,3,1,Education,7036.11,Medium
+56911,24,Male,Master,Single,4,Rent,18192,Unemployed,102326,60,3.28,694,0.38,162770,4,1,Debt consolidation,1985.12,High
+14230,41,Female,Master,Married,2,Rent,56692,Employed,243415,60,4.65,748,0.33,26339,2,1,Debt consolidation,5000.15,Medium
+83905,59,Male,Master,Single,3,Rent,0,Unemployed,85456,60,3.21,652,0.3,69046,3,1,Education,1652.86,High
+49769,34,Male,High School,Single,1,Own,10296,Unemployed,56834,48,6.83,694,0.23,193851,4,0,Debt consolidation,1507.52,High
+67403,27,Female,Master,Married,2,Own,28902,Employed,80413,36,5.94,664,0.28,150566,5,0,Debt consolidation,2631.74,High
+42757,23,Male,High School,Married,3,Rent,31432,Self-Employed,91173,48,6.01,665,0.4,44004,5,1,Education,2356.06,High
+96190,27,Male,High School,Divorced,4,Rent,53109,Self-Employed,193574,36,5.22,719,0.39,154547,3,0,Medical expenses,6219.1,High
+45066,40,Male,High School,Divorced,3,Own,72570,Self-Employed,203360,36,7.21,783,0.25,154956,2,0,Car purchase,6870.74,Low
+28607,22,Male,PhD,Widowed,0,Rent,57404,Self-Employed,108848,48,4.39,724,0.26,32149,1,1,Medical expenses,2665.87,Medium
+60323,51,Male,PhD,Widowed,3,Rent,53482,Employed,199438,36,6.3,734,0.21,89992,1,1,Debt consolidation,6586.99,Medium
+89788,41,Female,Bachelor,Single,2,Own,95644,Self-Employed,341162,60,6.76,756,0.31,199083,3,1,Education,7607.91,Medium
+85052,56,Female,Bachelor,Widowed,3,Rent,99487,Employed,153980,48,7,767,0.22,75518,5,1,Car purchase,4106.13,Medium
+84852,45,Male,Master,Divorced,2,Own,0,Unemployed,66293,48,5.84,670,0.37,56867,4,1,Debt consolidation,1703.73,High
+67659,20,Female,High School,Divorced,3,Rent,31919,Self-Employed,125965,36,4.38,689,0.31,26788,4,0,Car purchase,3958.8,High
+46194,36,Female,Bachelor,Married,5,Rent,55248,Employed,112997,36,3.57,702,0.24,142833,4,1,Debt consolidation,3474.97,Medium
+82536,65,Male,High School,Divorced,2,Rent,0,Unemployed,128719,36,4.75,654,0.3,39670,5,0,Home improvement,4085.04,High
+36744,40,Female,PhD,Single,5,Own,74688,Self-Employed,156473,48,6.03,773,0.27,116990,3,1,Car purchase,4046.13,Medium
+91515,21,Male,Master,Single,2,Rent,0,Unemployed,129827,36,7.04,682,0.34,143216,5,1,Home improvement,4367.96,High
+59655,57,Male,Bachelor,Widowed,5,Rent,54718,Employed,248216,60,7.99,740,0.31,119597,5,0,Medical expenses,5789.64,Medium
+16741,58,Female,PhD,Divorced,2,Rent,0,Unemployed,93081,36,7,673,0.25,92527,1,0,Education,3128.56,High
+63729,43,Male,Master,Single,2,Own,13774,Unemployed,104899,36,5.85,658,0.39,74210,4,0,Medical expenses,3425.24,High
+44115,38,Female,Master,Single,0,Own,66548,Self-Employed,138901,60,5.47,749,0.24,57163,4,0,Home improvement,2948.17,Medium
+25832,46,Female,PhD,Single,1,Rent,70784,Self-Employed,330891,36,7.95,758,0.3,148755,4,1,Car purchase,11383.57,Medium
+26705,45,Male,Master,Single,2,Own,0,Unemployed,144657,36,3.37,672,0.39,117184,4,1,Car purchase,4424.5,High
+72535,64,Male,Bachelor,Single,1,Rent,19716,Unemployed,138330,60,5.27,670,0.29,143344,5,1,Debt consolidation,2913,High
+40443,39,Female,Master,Single,4,Own,60577,Self-Employed,200681,48,6.79,709,0.21,65228,4,1,Medical expenses,5316.37,Medium
+90671,40,Male,Master,Divorced,1,Rent,78973,Self-Employed,277568,48,4.12,760,0.26,78007,5,0,Home improvement,6735.65,Low
+97350,37,Male,High School,Married,4,Rent,54608,Employed,110418,60,5.69,712,0.2,16757,3,0,Car purchase,2363.87,Medium
+84863,47,Female,Bachelor,Widowed,2,Rent,11965,Unemployed,106657,48,4.32,658,0.4,185299,1,1,Debt consolidation,2605.99,High
+39155,24,Female,Bachelor,Divorced,2,Own,0,Unemployed,142642,60,4.57,652,0.29,194838,5,1,Home improvement,2920.59,High
+83160,62,Male,High School,Married,1,Own,84128,Employed,201295,48,5.35,781,0.36,140213,3,0,Home improvement,5091.09,High
+93200,25,Male,High School,Widowed,0,Own,0,Unemployed,55087,48,6.44,689,0.28,163065,2,1,Education,1443.28,High
+79528,62,Male,Master,Married,2,Own,112215,Self-Employed,315157,48,5.99,784,0.3,35305,2,0,Car purchase,8138.93,Low
+64997,48,Female,Bachelor,Widowed,0,Rent,80449,Self-Employed,323175,36,4.74,775,0.34,136809,4,1,Home improvement,10253.62,Medium
+13796,38,Female,Bachelor,Widowed,0,Own,72118,Self-Employed,233261,48,4.96,778,0.29,78340,1,1,Education,5823.75,Medium
+38697,41,Male,Master,Widowed,3,Rent,0,Unemployed,131957,36,7.74,689,0.32,43873,5,0,Debt consolidation,4516.59,High
+59700,25,Female,Master,Single,5,Rent,13448,Unemployed,120185,36,7.93,684,0.28,198172,2,1,Home improvement,4132.69,High
+59005,41,Female,Bachelor,Married,0,Rent,74743,Employed,396508,60,3.51,775,0.36,21084,2,1,Car purchase,7768.25,High
+13177,34,Male,High School,Divorced,5,Rent,71472,Self-Employed,255054,36,7.09,767,0.37,30061,1,1,Debt consolidation,8591.78,High
+11932,54,Male,High School,Widowed,1,Own,87862,Self-Employed,284310,60,3.12,767,0.29,36130,3,1,Education,5477.71,Medium
+48173,47,Male,Bachelor,Widowed,4,Own,79319,Self-Employed,387939,60,5.67,765,0.28,140294,4,1,Medical expenses,8298.66,Medium
+24195,48,Male,High School,Widowed,1,Own,85623,Self-Employed,297627,36,6.21,771,0.23,175128,1,0,Medical expenses,9807.64,Low
+32184,33,Female,Bachelor,Single,1,Own,0,Unemployed,57724,48,4.26,669,0.35,49482,1,1,Medical expenses,1407.5,High
+88476,46,Male,Master,Married,4,Own,18188,Unemployed,135460,36,4.61,695,0.3,155439,1,0,Education,4283.17,High
+20158,44,Male,High School,Married,4,Rent,56467,Employed,214714,36,3.2,727,0.3,174145,5,1,Home improvement,6536.85,Medium
+81707,46,Female,High School,Divorced,0,Own,93591,Self-Employed,391688,60,4.36,770,0.32,107421,5,0,Home improvement,7951.27,Medium
+48036,53,Male,Master,Divorced,3,Own,61638,Employed,135478,36,5.62,730,0.2,119131,2,0,Education,4397.77,Medium
+18788,20,Female,Bachelor,Married,5,Rent,17513,Unemployed,62414,36,6.12,688,0.23,101869,5,0,Car purchase,2052.03,High
+92420,20,Male,Master,Divorced,3,Own,50463,Self-Employed,205714,48,5.81,741,0.33,30309,5,0,Debt consolidation,5281.71,Medium
+38369,37,Male,Master,Single,1,Own,68863,Self-Employed,172676,60,7.36,742,0.38,64868,2,0,Home improvement,3937.01,High
+38369,25,Male,Bachelor,Married,3,Rent,32548,Self-Employed,56840,36,5.56,678,0.29,133650,3,1,Medical expenses,1842.25,High
+25374,35,Female,PhD,Widowed,5,Own,60215,Self-Employed,236835,48,5.65,738,0.37,53546,3,0,Education,6049.16,High
+83464,48,Female,Master,Single,4,Own,0,Unemployed,53315,48,7.28,699,0.33,121169,2,0,Education,1434.17,High
+59047,31,Male,Bachelor,Widowed,2,Rent,54208,Employed,181367,48,3.47,723,0.38,141804,1,1,Debt consolidation,4302.93,High
+94832,37,Female,PhD,Single,5,Own,70488,Self-Employed,165001,60,7.12,795,0.39,169264,4,1,Home improvement,3729.02,High
+72055,61,Male,High School,Divorced,0,Rent,0,Unemployed,60855,48,7.17,657,0.21,177111,1,1,Debt consolidation,1631.42,High
+81314,37,Male,High School,Divorced,5,Own,12772,Unemployed,117677,36,7.7,675,0.28,185039,1,0,Home improvement,4023.9,High
+75735,29,Female,High School,Married,3,Rent,49940,Self-Employed,152083,60,5.53,711,0.33,10845,3,1,Medical expenses,3235.57,Medium
+55964,27,Female,PhD,Single,4,Own,26904,Employed,61870,36,6.65,661,0.26,174265,1,0,Debt consolidation,2061.47,High
+38511,60,Female,PhD,Single,5,Rent,114873,Self-Employed,328491,60,7.71,762,0.35,44795,3,0,Education,7585.4,Medium
+47627,31,Female,Bachelor,Divorced,3,Rent,43939,Employed,152225,36,7.9,716,0.34,79348,1,1,Car purchase,5230.62,Medium
+85850,43,Female,PhD,Married,0,Own,67627,Employed,249084,36,7.97,727,0.27,188786,3,0,Car purchase,8573.33,Medium
+76029,55,Female,High School,Married,2,Rent,77094,Self-Employed,158243,36,5.59,790,0.24,46651,4,1,Car purchase,5132.79,Medium
+83894,44,Male,Master,Single,5,Own,55201,Employed,210469,48,4.67,741,0.38,59050,3,1,Home improvement,5203.85,High
+71189,54,Male,High School,Widowed,4,Own,19436,Unemployed,145807,48,5.37,665,0.25,107836,5,1,Education,3690.13,High
+98939,45,Female,High School,Married,4,Rent,83955,Self-Employed,352918,48,7.77,775,0.32,52998,5,0,Car purchase,9637.6,Medium
+88230,64,Male,Bachelor,Married,5,Own,45924,Employed,181074,36,7.01,729,0.28,130740,1,0,Home improvement,6087.61,Medium
+32553,39,Female,High School,Married,1,Rent,52954,Self-Employed,164155,36,6.42,749,0.27,135132,2,1,Debt consolidation,5438.09,Medium
+71708,55,Female,Bachelor,Widowed,5,Own,106283,Self-Employed,213633,36,4.94,770,0.35,45003,4,1,Car purchase,6813.71,Medium
+98440,47,Female,High School,Divorced,3,Rent,79018,Employed,309520,36,6.84,773,0.27,141453,1,1,Debt consolidation,10362.04,Medium
+94617,34,Male,PhD,Married,0,Rent,64267,Self-Employed,124340,48,4.92,711,0.29,84701,3,1,Education,3100.21,Medium
+14564,36,Female,Bachelor,Married,3,Rent,76418,Self-Employed,171663,48,6.43,756,0.33,116030,1,0,Car purchase,4496.14,Medium
+26874,56,Female,PhD,Single,3,Own,110551,Self-Employed,164289,48,5.12,797,0.33,168239,4,1,Education,4123.65,Medium
+53917,54,Female,High School,Married,3,Own,0,Unemployed,50911,48,7.74,695,0.32,61803,5,1,Education,1389.02,High
+16362,49,Female,High School,Single,3,Own,71640,Self-Employed,383089,60,6.43,766,0.29,186946,3,0,Medical expenses,8437.54,Low
+45027,31,Female,Master,Widowed,0,Own,59754,Self-Employed,109336,60,3.56,746,0.21,113865,2,0,Debt consolidation,2146.63,Medium
+80121,26,Male,Bachelor,Widowed,3,Own,45008,Self-Employed,163989,60,7.1,736,0.29,30063,3,1,Debt consolidation,3703.42,Medium
+29234,58,Male,PhD,Single,2,Own,86262,Self-Employed,155867,36,7.75,766,0.34,30783,4,0,Home improvement,5336.28,Medium
+84828,36,Female,Bachelor,Single,2,Own,59927,Employed,214542,48,6.73,749,0.24,141481,1,1,Home improvement,5672.85,Medium
+98894,38,Female,High School,Widowed,1,Rent,71535,Self-Employed,184017,48,4.34,788,0.36,176423,3,0,Home improvement,4499.22,High
+39468,21,Female,Bachelor,Single,4,Own,19983,Unemployed,127059,48,6.17,671,0.31,134676,5,0,Car purchase,3300.36,High
+54642,40,Female,PhD,Married,3,Own,67440,Employed,144567,60,4.95,725,0.21,159766,1,1,Medical expenses,3005.79,Medium
+55259,25,Male,Master,Divorced,2,Own,52102,Self-Employed,222520,36,3.78,737,0.23,102176,5,1,Education,6882.05,Medium
+13068,38,Female,Bachelor,Widowed,4,Rent,69894,Self-Employed,132373,36,4.98,713,0.4,159617,3,0,Home improvement,4226.38,High
+62575,55,Female,Master,Married,3,Own,110495,Self-Employed,245204,60,3.53,793,0.39,176779,3,1,Home improvement,4808.04,High
+62948,51,Female,Master,Widowed,1,Rent,78901,Self-Employed,150874,60,7.15,798,0.29,55159,1,1,Medical expenses,3413.52,Medium
+95603,46,Female,PhD,Married,5,Rent,0,Unemployed,129915,60,5.52,655,0.32,117157,1,1,Medical expenses,2762.86,High
+42760,30,Female,High School,Divorced,0,Own,0,Unemployed,71152,48,4.85,665,0.24,196854,2,1,Home improvement,1769.91,High
+48401,24,Male,Bachelor,Widowed,3,Rent,19883,Unemployed,81704,36,7.86,682,0.33,168336,3,0,Home improvement,2804.72,High
+70583,24,Male,High School,Widowed,4,Own,32305,Self-Employed,104668,48,7.42,684,0.22,169115,5,0,Education,2827.78,High
+73020,23,Female,PhD,Single,2,Own,18381,Unemployed,106175,36,3.52,666,0.35,161994,1,0,Car purchase,3260.75,High
+64118,62,Female,Bachelor,Married,3,Rent,66365,Self-Employed,186514,60,6.47,729,0.38,138863,2,1,Car purchase,4114.19,High
+48704,64,Female,Master,Widowed,5,Own,0,Unemployed,149788,36,3.74,668,0.21,107216,5,1,Car purchase,4627.62,High
+50194,65,Male,Master,Widowed,5,Own,0,Unemployed,147482,60,3.64,688,0.26,110722,3,0,Debt consolidation,2905.4,High
+37742,57,Female,Bachelor,Single,2,Own,18332,Unemployed,112517,60,7.5,672,0.33,163914,5,1,Medical expenses,2578.51,High
+59068,44,Female,Bachelor,Widowed,1,Own,70466,Self-Employed,325307,36,4.71,769,0.24,49344,3,0,Home improvement,10313.14,Low
+56727,51,Female,High School,Married,5,Rent,103531,Self-Employed,158608,48,6.13,771,0.3,81165,5,0,Debt consolidation,4114.56,Low
+68541,56,Male,Bachelor,Divorced,5,Rent,0,Unemployed,140392,60,5.28,652,0.4,79668,5,1,Debt consolidation,2957.59,High
+34905,24,Male,Master,Single,1,Rent,34595,Employed,149834,60,5.39,656,0.31,23391,3,0,Home improvement,3170.24,High
+72691,27,Female,High School,Widowed,1,Rent,0,Unemployed,128419,48,4.5,650,0.32,39235,4,0,Medical expenses,3156.97,High
+93221,59,Female,High School,Divorced,3,Own,101361,Self-Employed,196276,48,5.54,782,0.26,179156,3,1,Medical expenses,4995.22,Medium
+42639,41,Female,Master,Widowed,0,Rent,70213,Self-Employed,233678,60,5.35,760,0.24,123250,3,0,Education,4936.45,Low
+54883,60,Male,Bachelor,Single,1,Rent,92884,Self-Employed,230054,48,6.83,780,0.22,88659,5,0,Medical expenses,6102.18,Low
+98065,29,Female,Bachelor,Married,3,Rent,34996,Employed,136847,36,4.63,683,0.4,181308,5,1,Car purchase,4329.31,High
+39979,36,Female,Master,Divorced,1,Own,73812,Self-Employed,242781,60,4.58,769,0.29,113164,4,0,Education,4972.96,Low
+17249,46,Female,Bachelor,Widowed,2,Rent,0,Unemployed,136776,60,4.28,673,0.2,122066,4,1,Medical expenses,2767.43,High
+83396,32,Male,PhD,Divorced,0,Rent,40256,Employed,185323,60,5.4,746,0.32,22058,4,1,Home improvement,3922.67,Medium
+46718,58,Female,High School,Single,0,Own,95251,Self-Employed,246848,48,7.62,757,0.29,29395,3,1,Home improvement,6710.15,Medium
+29715,57,Female,Bachelor,Single,3,Rent,97534,Self-Employed,293284,60,4.3,783,0.36,190766,1,0,Debt consolidation,5939,High
+51151,43,Female,Bachelor,Married,2,Own,65099,Employed,194949,48,3.99,745,0.25,168234,1,0,Debt consolidation,4709.64,Medium
+94179,46,Female,PhD,Widowed,0,Rent,0,Unemployed,124149,48,7.98,682,0.37,95739,5,1,Car purchase,3412.03,High
+85342,41,Male,High School,Single,4,Rent,0,Unemployed,125225,48,6.05,662,0.35,189294,4,1,Education,3240.2,High
+69151,29,Female,High School,Married,5,Own,47292,Self-Employed,213350,36,5.01,718,0.2,112222,1,0,Home improvement,6817.13,Medium
+52255,47,Male,Master,Married,4,Own,0,Unemployed,125292,48,7.47,695,0.37,50004,2,0,Home improvement,3390.19,High
+50433,31,Male,High School,Single,1,Own,45730,Employed,182663,36,6.29,712,0.26,121223,3,0,Home improvement,6031.43,Medium
+56575,21,Male,PhD,Single,3,Rent,58427,Self-Employed,154679,48,3.25,728,0.28,63905,4,0,Debt consolidation,3641.4,Medium
+32950,52,Male,Bachelor,Married,0,Own,19909,Unemployed,148262,48,5.08,663,0.4,142883,3,1,Car purchase,3716.43,High
+76680,27,Female,High School,Single,3,Own,58098,Self-Employed,126231,48,4.8,719,0.37,123809,3,0,Debt consolidation,3134.74,High
+95253,61,Female,PhD,Single,2,Own,49223,Employed,165273,36,5.82,708,0.3,46757,4,0,Debt consolidation,5392.49,Medium
+88145,33,Female,Master,Widowed,1,Own,40722,Employed,235947,36,6.71,742,0.24,38676,2,0,Education,7873.42,Medium
+36748,39,Female,Master,Divorced,4,Own,35846,Employed,93461,36,7.44,652,0.35,47838,4,0,Medical expenses,3175.6,High
+59418,58,Male,Bachelor,Single,0,Own,46037,Employed,210069,36,3.56,730,0.29,118809,5,1,Home improvement,6458.45,Medium
+89071,60,Male,Master,Widowed,3,Own,61160,Employed,241554,48,7.78,742,0.34,135249,4,0,Home improvement,6598.45,Medium
+38745,52,Male,Bachelor,Married,5,Rent,11553,Unemployed,87001,60,3.53,664,0.25,182849,3,1,Education,1705.94,High
+97602,57,Female,Bachelor,Divorced,3,Own,0,Unemployed,148033,48,6.16,700,0.24,57755,1,0,Debt consolidation,3843.92,High
+41172,30,Female,Master,Single,4,Own,78104,Self-Employed,240151,36,6.14,786,0.28,66318,4,1,Medical expenses,7899.63,Medium
+67653,27,Female,Master,Divorced,1,Own,56443,Self-Employed,227757,60,5.28,706,0.33,99751,5,1,Debt consolidation,4798.08,Medium
+57896,47,Male,Bachelor,Single,1,Own,53941,Employed,244301,60,4.48,722,0.26,124337,5,0,Medical expenses,4983.74,Medium
+33935,45,Male,Bachelor,Married,0,Rent,0,Unemployed,123778,60,5.63,684,0.27,70404,5,0,Car purchase,2643.69,High
+30807,26,Male,Bachelor,Married,4,Own,29561,Employed,56411,48,4.48,683,0.39,134923,4,1,Home improvement,1385.83,High
+49320,20,Male,Master,Divorced,1,Rent,37372,Employed,103788,36,3.72,660,0.35,73560,4,0,Education,3204.74,High
+61249,57,Male,Bachelor,Divorced,0,Rent,69203,Self-Employed,205235,36,6.63,737,0.39,49805,2,1,Home improvement,6834.9,High
+98111,37,Female,High School,Single,4,Own,11681,Unemployed,80432,60,5.19,657,0.31,169917,4,0,Debt consolidation,1688.4,High
+54744,37,Male,PhD,Divorced,0,Own,69168,Self-Employed,144159,60,6.46,750,0.3,86311,2,0,Debt consolidation,3178.71,Low
+89077,58,Female,Bachelor,Widowed,5,Own,63712,Self-Employed,127574,48,7.21,746,0.26,75973,5,1,Education,3424.3,Medium
+97422,36,Female,High School,Single,0,Own,54194,Employed,229755,36,5.96,742,0.25,195736,4,1,Medical expenses,7523.2,Medium
+78022,62,Female,High School,Single,4,Rent,0,Unemployed,81275,48,5.9,695,0.38,120580,4,0,Car purchase,2092.83,High
+94815,48,Female,High School,Widowed,5,Own,0,Unemployed,124308,36,3.12,671,0.22,118041,1,1,Car purchase,3776.2,High
+57000,63,Female,Master,Married,2,Own,61267,Employed,220115,60,7.95,716,0.35,52098,2,1,Education,5126.85,Medium
+55683,31,Female,High School,Divorced,2,Rent,77154,Self-Employed,230172,36,7.57,755,0.33,92031,5,1,Home improvement,7845.67,Medium
+60160,32,Female,PhD,Divorced,2,Own,74732,Self-Employed,191737,36,4.61,757,0.24,91402,5,1,Medical expenses,6062.62,Medium
+80550,31,Female,High School,Married,0,Rent,19797,Unemployed,84520,36,6.58,684,0.27,44873,4,0,Car purchase,2811.23,High
+90402,56,Male,Master,Married,3,Rent,75912,Employed,190635,60,7.96,751,0.3,192210,2,0,Home improvement,4441.8,Low
+67718,61,Male,Bachelor,Single,2,Rent,96199,Employed,310489,48,7.19,776,0.31,158920,2,1,Home improvement,8328.87,Medium
+77970,57,Female,PhD,Divorced,5,Own,88266,Self-Employed,247053,48,7.5,765,0.26,103604,1,0,Car purchase,6691.02,Low
+42361,54,Male,High School,Widowed,4,Own,92904,Employed,366607,60,4.14,772,0.34,179073,5,0,Education,7374.91,Medium
+45275,56,Male,PhD,Widowed,3,Own,51229,Employed,105797,60,5.24,741,0.21,101122,4,0,Debt consolidation,2225.26,Medium
+99392,42,Male,Master,Divorced,5,Rent,19793,Unemployed,106469,60,6.82,658,0.4,66414,4,1,Medical expenses,2379.58,High
+98430,39,Female,Bachelor,Widowed,1,Own,54975,Employed,113886,60,6.77,737,0.22,28615,5,0,Medical expenses,2540.61,Medium
+64225,30,Male,Bachelor,Married,1,Rent,0,Unemployed,93488,36,3.47,675,0.31,189661,4,1,Education,2867.23,High
+72181,28,Female,Bachelor,Single,2,Own,36587,Employed,106408,48,5.5,661,0.25,62587,2,1,Debt consolidation,2704.54,High
+54527,48,Male,Master,Single,4,Rent,10969,Unemployed,62516,36,3.01,683,0.2,95684,4,1,Debt consolidation,1893.37,High
+84459,56,Female,High School,Married,1,Own,75075,Employed,207245,48,3.48,793,0.38,167212,3,0,Education,4918.61,High
+33264,52,Male,PhD,Single,4,Rent,11970,Unemployed,88198,36,4.75,661,0.32,53879,1,1,Home improvement,2799.06,High
+89102,29,Female,PhD,Widowed,3,Rent,0,Unemployed,94347,36,4.83,665,0.39,138651,2,1,Debt consolidation,3000.5,High
+56965,23,Female,High School,Single,5,Own,19224,Unemployed,149211,60,6.22,668,0.26,127415,2,1,Education,3260.26,High
+62984,47,Female,High School,Widowed,0,Own,60535,Employed,247129,48,6.05,719,0.3,85286,1,0,Home improvement,6394.46,Medium
+21689,39,Male,Master,Single,4,Rent,44926,Employed,200899,36,4.76,734,0.21,189349,4,0,Medical expenses,6377.43,Medium
+58604,63,Male,Bachelor,Single,3,Rent,86688,Employed,233967,36,6.57,781,0.24,177882,5,0,Debt consolidation,7780.05,Low
+60002,33,Male,Master,Single,1,Own,47776,Employed,159866,48,7.59,725,0.21,47137,5,0,Medical expenses,4341.69,Medium
+97625,36,Female,Master,Married,5,Own,72619,Self-Employed,152681,48,7.12,774,0.26,59675,4,1,Medical expenses,4086.76,Medium
+11367,60,Female,High School,Widowed,1,Rent,81785,Employed,179984,36,3.79,800,0.3,58066,5,1,Home improvement,5568.01,Medium
+43619,63,Female,Master,Divorced,2,Own,89872,Employed,181300,48,7.11,762,0.39,155424,4,0,Home improvement,4851.29,High
+77924,22,Female,PhD,Single,0,Rent,38649,Employed,100864,36,3.42,694,0.36,73373,4,1,Education,3089.24,High
+28711,48,Male,Bachelor,Married,5,Own,68638,Employed,103725,36,4.71,716,0.38,101781,4,0,Debt consolidation,3288.37,High
+61290,44,Male,Master,Single,1,Rent,13184,Unemployed,136246,60,5.19,678,0.21,74428,5,1,Medical expenses,2860.03,High
+31115,29,Female,High School,Single,5,Rent,46975,Self-Employed,240056,36,6.09,710,0.34,94320,3,0,Home improvement,7886.51,Medium
+23604,63,Male,High School,Widowed,0,Rent,110377,Self-Employed,298623,36,7.29,798,0.33,157754,5,0,Debt consolidation,10109.22,Medium
+95047,50,Female,Master,Widowed,3,Rent,18037,Unemployed,95239,60,5.27,659,0.29,104407,2,0,Car purchase,2005.57,High
+93505,31,Female,Master,Married,2,Rent,76393,Self-Employed,228605,36,3.21,776,0.34,151950,2,1,Home improvement,6961.66,Medium
+92116,42,Male,PhD,Widowed,3,Own,17410,Unemployed,100913,48,4.82,670,0.33,44895,5,0,Home improvement,2507.69,High
+38437,65,Male,Bachelor,Divorced,3,Own,102205,Self-Employed,230451,36,4.96,780,0.22,180980,4,1,Medical expenses,7353.95,Medium
+64017,23,Male,Bachelor,Divorced,4,Rent,16296,Unemployed,73634,48,3.12,663,0.28,184848,2,1,Medical expenses,1725.49,High
+30428,61,Female,Bachelor,Married,3,Own,76102,Self-Employed,377548,60,3.65,781,0.26,170517,5,0,Debt consolidation,7440.84,Low
+18566,25,Male,High School,Single,2,Rent,59550,Self-Employed,193505,36,6.72,713,0.26,27307,3,1,Medical expenses,6458.77,Medium
+68538,50,Female,Bachelor,Divorced,2,Rent,0,Unemployed,71398,48,3.59,689,0.28,157236,5,1,Car purchase,1701.06,High
+42688,27,Male,PhD,Single,0,Rent,45493,Self-Employed,199449,48,3.85,701,0.32,104996,4,0,Education,4795.09,Medium
+12602,51,Female,Master,Single,2,Rent,48843,Employed,178670,60,4.97,709,0.22,185349,2,1,Car purchase,3717.82,Medium
+20888,42,Female,High School,Widowed,1,Own,76292,Self-Employed,284590,48,7.91,751,0.3,53747,1,0,Car purchase,7804.88,Low
+44486,48,Female,Master,Single,2,Own,11314,Unemployed,122256,36,3.65,689,0.2,160379,1,1,Education,3767.86,High
+36167,50,Female,PhD,Single,5,Own,16146,Unemployed,98076,60,7.27,700,0.28,195409,3,0,Car purchase,2228.78,High
+44286,55,Male,PhD,Divorced,2,Rent,104027,Self-Employed,172228,60,7.57,782,0.38,16031,2,0,Home improvement,3956.94,High
+19753,31,Female,High School,Married,4,Rent,37471,Employed,51264,60,3.07,671,0.37,171863,1,0,Medical expenses,985.55,High
+92067,49,Female,High School,Single,0,Rent,74447,Employed,392892,36,3.93,795,0.39,11006,4,0,Home improvement,12200.39,High
+16553,65,Male,PhD,Divorced,5,Rent,113579,Self-Employed,201720,60,7.94,788,0.34,133000,3,0,Education,4696.71,Medium
+34238,52,Male,High School,Married,1,Own,97552,Employed,292081,60,7.86,794,0.22,29865,2,0,Car purchase,6781.15,Low
+39847,30,Female,Master,Widowed,4,Own,48976,Employed,165784,48,6.68,733,0.2,189183,3,1,Home improvement,4376.7,Medium
+18474,23,Male,PhD,Divorced,5,Rent,0,Unemployed,138347,60,5.23,697,0.33,93466,5,1,Medical expenses,2908.75,High
+98892,24,Female,Master,Widowed,2,Own,46374,Self-Employed,178707,48,4.57,747,0.24,163938,2,0,Car purchase,4403.64,Medium
+63704,49,Female,Master,Widowed,3,Own,75003,Self-Employed,187246,60,6.75,776,0.39,46551,3,1,Home improvement,4174.03,High
+62352,43,Male,PhD,Married,1,Rent,53107,Employed,104296,48,5.36,717,0.27,15683,4,1,Home improvement,2638.69,Medium
+49783,55,Female,Bachelor,Married,3,Own,88515,Self-Employed,398337,36,5.44,792,0.21,37790,1,1,Education,12870.71,Medium
+89667,38,Male,Bachelor,Widowed,1,Own,50424,Self-Employed,180742,60,3.79,740,0.26,172130,4,0,Medical expenses,3583.21,Medium
+26964,53,Female,Master,Divorced,5,Rent,97049,Self-Employed,274131,36,3.09,773,0.28,64907,3,0,Car purchase,8320.64,Low
+93082,50,Female,Master,Divorced,5,Rent,61091,Employed,160011,60,5.96,715,0.36,75299,4,1,Debt consolidation,3461.57,High
+51085,52,Male,PhD,Married,4,Own,74683,Employed,278697,48,6.01,796,0.25,127829,4,0,Car purchase,7201.99,Low
+28754,43,Male,PhD,Married,1,Rent,81670,Self-Employed,366226,60,5.41,759,0.36,93895,4,1,Medical expenses,7754.84,High
+80295,32,Male,High School,Divorced,5,Rent,13193,Unemployed,82535,48,5.11,650,0.26,63540,2,1,Debt consolidation,2070.94,High
+13777,61,Female,High School,Divorced,3,Rent,101018,Self-Employed,250144,60,3.78,778,0.35,38244,3,1,Car purchase,4957.02,Medium
+35923,65,Female,Master,Married,4,Rent,61111,Self-Employed,132483,36,7.34,735,0.3,47159,3,1,Medical expenses,4490.44,Medium
+13337,60,Female,Master,Widowed,1,Own,10565,Unemployed,92469,60,6.78,652,0.38,24643,2,1,Debt consolidation,2063.6,High
+18899,28,Male,High School,Married,5,Rent,37364,Employed,97227,48,4.69,676,0.27,28239,4,1,Medical expenses,2405.56,High
+18146,53,Female,PhD,Married,4,Rent,69392,Employed,141696,36,6.81,716,0.25,24814,5,0,Debt consolidation,4740.12,Medium
+94266,64,Male,PhD,Single,0,Rent,50002,Employed,136090,60,4.6,724,0.35,185705,4,0,Medical expenses,2789.84,Medium
+47963,51,Male,PhD,Single,0,Rent,0,Unemployed,80081,60,5.46,672,0.34,162458,3,0,Education,1699.05,High
+37889,29,Male,Master,Divorced,4,Own,0,Unemployed,76422,60,4.28,662,0.27,78247,4,0,Car purchase,1546.27,High
+69198,21,Female,PhD,Married,1,Rent,31348,Employed,63989,60,7.67,663,0.24,159476,3,0,Medical expenses,1475.48,High
+49763,43,Female,High School,Married,4,Own,66747,Employed,106242,48,3.06,711,0.37,64094,4,1,Car purchase,2484.29,High
+70015,45,Male,PhD,Widowed,4,Own,0,Unemployed,130788,36,7.42,651,0.32,12939,3,0,Car purchase,4441.71,High
+68334,44,Male,High School,Single,2,Rent,13125,Unemployed,147235,48,3.38,676,0.33,87979,1,0,Car purchase,3482.11,High
+28591,36,Female,Bachelor,Single,5,Rent,55720,Self-Employed,103760,36,3.43,715,0.29,161985,5,1,Car purchase,3178.8,Medium
+12956,64,Female,High School,Married,1,Rent,104434,Self-Employed,248939,36,3.19,777,0.37,118114,2,0,Medical expenses,7576.74,High
+15771,62,Male,Master,Divorced,5,Own,92556,Employed,220067,36,6.36,762,0.25,127437,1,0,Medical expenses,7279.33,Low
+67061,55,Female,Bachelor,Single,2,Own,79193,Employed,246284,48,7.1,784,0.23,182648,3,0,Car purchase,6588.1,Low
+93796,42,Female,Bachelor,Widowed,2,Own,95143,Self-Employed,226663,36,7.07,798,0.38,187133,5,1,Car purchase,7631.62,High
+66585,25,Female,Bachelor,Divorced,2,Own,54697,Self-Employed,241351,60,3.82,702,0.27,173856,2,1,Medical expenses,4790.82,Medium
+92928,30,Male,Bachelor,Widowed,0,Own,51429,Employed,242605,36,5.6,736,0.2,154296,2,0,Car purchase,7871.18,Medium
+74117,27,Female,Master,Widowed,4,Own,34453,Employed,96023,60,5.04,698,0.4,69195,4,0,Home improvement,2003.68,High
+10078,52,Male,PhD,Married,0,Own,89532,Employed,256461,48,7.13,784,0.33,60071,1,0,Debt consolidation,6866.74,Medium
+48769,27,Male,Bachelor,Single,0,Own,33897,Self-Employed,105301,48,6.31,650,0.34,88699,3,1,Car purchase,2747.48,High
+37321,39,Female,PhD,Single,5,Own,51383,Employed,183789,48,3.16,744,0.29,110599,5,0,Education,4312.92,Medium
+86955,59,Female,PhD,Single,3,Rent,109745,Self-Employed,387469,36,5.37,784,0.22,74327,1,1,Education,12496.95,Medium
+54221,35,Female,High School,Divorced,2,Own,55110,Employed,207638,36,3.05,708,0.32,187010,1,1,Debt consolidation,6295.47,Medium
+75807,31,Female,Master,Widowed,4,Rent,69190,Self-Employed,130846,60,5.58,711,0.38,86910,2,0,Car purchase,2789.2,High
+88790,41,Female,High School,Married,0,Rent,85933,Self-Employed,215285,36,4.94,797,0.36,56302,4,0,Car purchase,6866.4,High
+33943,34,Female,PhD,Married,5,Own,0,Unemployed,71552,36,3.66,688,0.31,124844,4,1,Education,2205.79,High
+12691,65,Female,High School,Widowed,3,Rent,88592,Self-Employed,296088,60,5.11,754,0.22,184247,3,1,Education,6195.64,Medium
+76468,35,Male,High School,Single,1,Rent,0,Unemployed,108471,60,7.98,673,0.31,135273,1,0,Medical expenses,2529.18,High
+64166,27,Male,Bachelor,Married,1,Own,37232,Employed,141943,48,3.06,653,0.3,13189,1,1,Medical expenses,3319.1,High
+79536,20,Female,Bachelor,Divorced,1,Own,28091,Employed,137036,48,5.39,663,0.22,111674,5,0,Home improvement,3470.44,High
+97435,28,Male,High School,Widowed,4,Rent,0,Unemployed,132174,48,7.2,673,0.39,78804,4,0,Education,3546.67,High
+15624,40,Female,High School,Married,5,Own,84739,Self-Employed,308973,36,6.74,758,0.3,143574,4,0,Home improvement,10317.98,Low
+88509,53,Female,PhD,Single,3,Rent,64347,Self-Employed,247242,36,6.52,749,0.23,178139,1,1,Car purchase,8211.18,Medium
+61546,37,Female,Master,Divorced,4,Own,78029,Self-Employed,398642,48,5.56,774,0.35,190473,5,0,Education,10152.08,Medium
+54181,25,Female,Master,Single,2,Own,58663,Self-Employed,175745,60,5.57,720,0.39,94977,2,0,Car purchase,3744.83,High
+50153,32,Female,PhD,Divorced,2,Own,0,Unemployed,140221,48,3.95,693,0.27,152285,5,1,Home improvement,3382.83,High
+70645,57,Male,High School,Divorced,5,Rent,79199,Employed,357079,60,7.15,761,0.38,140273,3,0,Education,8078.91,High
+73483,65,Female,PhD,Divorced,1,Own,11180,Unemployed,66309,48,7.07,675,0.2,59526,3,1,Education,1772.11,High
+82174,57,Female,PhD,Married,2,Rent,101163,Self-Employed,278335,60,3.54,777,0.28,41311,2,0,Debt consolidation,5460,Low
+57360,23,Male,High School,Divorced,0,Own,37842,Employed,62568,60,6.43,663,0.21,183092,5,0,Debt consolidation,1378.06,High
+24605,41,Female,Master,Widowed,1,Rent,70260,Employed,308246,60,6.76,785,0.27,71960,2,0,Medical expenses,6873.89,Low
+86561,40,Male,Bachelor,Widowed,1,Rent,52987,Employed,249747,60,6.07,717,0.36,42653,1,0,Education,5425.75,High
+38963,35,Female,Bachelor,Married,1,Own,35103,Employed,81296,60,4.54,687,0.37,111371,4,0,Home improvement,1662.5,High
+23155,25,Female,PhD,Widowed,1,Own,0,Unemployed,120944,48,4.03,693,0.3,147346,3,1,Debt consolidation,2925.84,High
+75409,52,Female,PhD,Married,2,Rent,11267,Unemployed,72070,48,4.04,670,0.27,81864,2,1,Home improvement,1744.09,High
+59734,58,Female,High School,Married,5,Rent,106731,Self-Employed,359741,36,4.94,772,0.27,15372,4,1,Education,11473.74,Medium
+65592,25,Female,Master,Divorced,1,Own,59871,Self-Employed,168120,48,3.79,714,0.37,179085,5,0,Debt consolidation,4033.48,High
+59996,43,Male,Bachelor,Single,5,Rent,70167,Employed,332272,60,3.25,755,0.31,76884,4,0,Car purchase,6437.77,Medium
+28564,47,Female,Bachelor,Married,3,Own,67056,Employed,117505,36,7.36,739,0.21,181605,2,1,Medical expenses,3984.73,Medium
+71636,47,Male,Bachelor,Single,1,Rent,75324,Employed,176610,48,7.09,761,0.31,131251,5,1,Home improvement,4722.85,Medium
+30017,54,Male,Bachelor,Single,2,Rent,93636,Self-Employed,363203,36,5.5,753,0.28,53778,1,1,Home improvement,11753.65,Medium
+27339,35,Female,Master,Widowed,1,Own,58272,Employed,128803,60,4.24,740,0.32,21081,1,1,Home improvement,2601.82,Medium
+10075,38,Female,PhD,Widowed,4,Own,17645,Unemployed,129366,60,6.59,697,0.28,75910,5,1,Home improvement,2866.53,High
+75949,51,Male,High School,Married,0,Own,67571,Self-Employed,208111,48,4.88,723,0.2,137722,2,0,Home improvement,5181.96,Medium
+67086,60,Male,PhD,Married,5,Own,76023,Self-Employed,187307,36,7.5,778,0.25,114658,4,1,Car purchase,6373.64,Medium
+36829,49,Male,PhD,Single,1,Rent,11659,Unemployed,99025,36,4.75,674,0.38,123608,1,1,Car purchase,3142.67,High
+77182,55,Female,High School,Widowed,0,Own,72679,Self-Employed,231354,60,3.83,756,0.23,196411,5,1,Debt consolidation,4594.3,Medium
+13235,52,Male,Master,Single,3,Own,112331,Self-Employed,310674,48,4.73,770,0.26,23347,5,0,Education,7696.95,Low
+73899,47,Male,High School,Married,3,Own,17206,Unemployed,68868,36,6.81,662,0.22,110634,3,1,Home improvement,2303.83,High
+15490,22,Female,High School,Married,1,Own,13172,Unemployed,69876,48,5.74,666,0.4,65211,1,0,Home improvement,1789.99,High
+14910,36,Female,High School,Married,3,Rent,0,Unemployed,60481,60,5.3,671,0.32,107548,4,1,Medical expenses,1275.14,High
+83212,55,Female,Master,Married,5,Own,0,Unemployed,52913,48,5.42,671,0.39,88792,4,1,Debt consolidation,1341.34,High
+87554,39,Female,High School,Married,4,Rent,43150,Employed,221725,36,7.63,744,0.31,105156,4,1,Education,7568.83,Medium
+84261,41,Female,High School,Married,1,Own,11086,Unemployed,57458,48,5.03,677,0.23,134039,1,1,Car purchase,1437.89,High
+25496,39,Male,PhD,Widowed,3,Rent,64093,Self-Employed,161633,48,4.22,710,0.27,166757,3,1,Debt consolidation,3935.76,Medium
+23193,25,Male,High School,Married,4,Own,59379,Self-Employed,124199,60,6.24,703,0.2,56549,1,0,Car purchase,2715.82,Medium
+58072,63,Female,High School,Single,1,Own,66551,Self-Employed,110208,60,3.41,702,0.32,60396,2,1,Education,2149.97,Medium
+24095,37,Female,High School,Divorced,1,Rent,69862,Self-Employed,168152,36,6.22,744,0.3,140132,5,0,Car purchase,5542.48,Medium
+14198,45,Female,Bachelor,Widowed,3,Own,15020,Unemployed,135654,60,7.07,676,0.36,71636,3,1,Home improvement,3060.13,High
+41546,49,Male,Bachelor,Single,0,Rent,0,Unemployed,64113,48,3.63,696,0.21,97222,3,0,Education,1529.63,High
+67060,46,Male,Master,Married,3,Rent,75129,Self-Employed,252444,36,4.73,753,0.21,76107,4,0,Education,8007.38,Low
+70752,62,Female,Master,Widowed,1,Own,16919,Unemployed,148502,60,7.34,661,0.2,53038,3,1,Debt consolidation,3383.37,High
+73818,41,Male,High School,Married,1,Own,99730,Self-Employed,203020,60,3.9,752,0.35,175553,3,1,Medical expenses,4043.48,Medium
+58892,41,Male,High School,Widowed,4,Rent,54843,Employed,187167,60,6.29,747,0.35,81682,5,1,Medical expenses,4100.52,Medium
+87396,59,Male,PhD,Single,3,Own,0,Unemployed,87288,48,3.09,687,0.33,26462,4,1,Education,2043.27,High
+89791,56,Male,Master,Married,3,Own,118426,Self-Employed,320932,36,7.08,792,0.38,76621,4,1,Debt consolidation,10808.28,High
+79565,34,Male,Bachelor,Widowed,1,Own,49090,Employed,112520,36,7.01,717,0.31,153273,4,0,Medical expenses,3782.86,Medium
+93888,39,Male,PhD,Married,4,Own,42695,Employed,201980,60,6.63,711,0.31,62496,1,1,Debt consolidation,4482.27,Medium
+53093,61,Male,PhD,Single,0,Rent,0,Unemployed,136174,48,6.36,676,0.23,121791,2,0,Car purchase,3558.68,High
+22793,38,Female,High School,Single,1,Rent,42849,Employed,117296,48,7.83,707,0.35,98481,1,1,Medical expenses,3209.02,Medium
+26003,50,Female,High School,Divorced,0,Own,65420,Employed,149623,60,7.72,746,0.2,172618,1,0,Home improvement,3456.29,Medium
+29111,41,Male,Bachelor,Widowed,5,Own,61147,Employed,202046,48,3.52,732,0.36,115502,2,0,Home improvement,4801.96,High
+91405,60,Female,High School,Married,5,Own,17501,Unemployed,92233,60,4.84,652,0.21,59304,1,1,Debt consolidation,1909.22,High
+97107,43,Female,PhD,Single,2,Own,54393,Employed,125159,60,5.6,749,0.22,45591,4,1,Medical expenses,2670.06,Medium
+82299,41,Male,High School,Divorced,1,Own,16973,Unemployed,55103,36,3.27,669,0.33,45892,3,1,Home improvement,1680.79,High
+46787,41,Female,High School,Divorced,0,Own,94203,Self-Employed,228596,48,3.11,768,0.27,196594,1,0,Medical expenses,5354.86,Low
+89024,58,Male,Master,Single,0,Own,80860,Self-Employed,382890,36,3.91,763,0.32,30667,2,0,Car purchase,11883.42,Medium
+50827,55,Male,Master,Divorced,0,Own,60440,Employed,210145,36,6.29,717,0.35,45885,1,0,Medical expenses,6938.87,Medium
+10525,26,Female,High School,Widowed,2,Own,11751,Unemployed,70815,60,7.7,700,0.25,97572,2,0,Medical expenses,1634.65,High
+23614,60,Male,PhD,Married,5,Rent,88356,Employed,365528,60,5.55,776,0.2,147094,3,0,Education,7782.7,Low
+81770,35,Male,PhD,Married,4,Own,52294,Employed,176731,48,3.68,737,0.28,161606,3,1,Home improvement,4223.87,Medium
+90790,27,Female,Master,Widowed,0,Rent,49357,Self-Employed,150112,60,4.26,708,0.32,177987,5,0,Home improvement,3034.76,Medium
+27360,65,Male,Bachelor,Married,5,Rent,11182,Unemployed,67427,36,4.38,657,0.31,180879,2,0,Debt consolidation,2119.08,High
+64179,26,Female,Bachelor,Widowed,1,Rent,12019,Unemployed,92613,48,4.89,683,0.34,126237,2,0,Home improvement,2306.84,High
+61014,42,Male,Bachelor,Widowed,3,Own,71603,Self-Employed,216089,36,5.17,760,0.21,25621,4,1,Home improvement,6933.46,Medium
+64185,27,Female,Bachelor,Divorced,2,Rent,55200,Self-Employed,103609,48,6.93,733,0.21,129125,3,1,Home improvement,2756.86,Medium
+68896,32,Female,PhD,Widowed,2,Rent,57227,Self-Employed,214852,36,3.09,715,0.33,110815,2,0,Debt consolidation,6521.36,Medium
+45084,43,Female,High School,Divorced,5,Own,0,Unemployed,58253,60,7.79,656,0.25,84137,3,0,Medical expenses,1349.04,High
+90425,56,Male,PhD,Single,1,Rent,110363,Self-Employed,330784,60,5.1,771,0.2,60703,2,0,Car purchase,6918.9,Low
+65685,36,Female,Bachelor,Widowed,5,Own,47449,Employed,223693,60,3.98,715,0.26,98119,3,1,Home improvement,4470.13,Medium
+79794,41,Female,Bachelor,Widowed,4,Rent,0,Unemployed,124076,36,4.16,652,0.24,118097,5,0,Debt consolidation,3876.69,High
+99254,55,Female,Bachelor,Married,5,Rent,64305,Employed,125390,36,4.28,737,0.28,83508,5,1,Home improvement,3930.28,Medium
+22252,41,Male,High School,Single,2,Rent,65597,Employed,172635,60,3.84,748,0.34,11666,4,0,Education,3429.68,Medium
+53351,26,Male,Bachelor,Divorced,0,Own,15717,Unemployed,148740,48,5.78,660,0.21,35561,5,0,Car purchase,3815.18,High
+35237,31,Male,Bachelor,Single,5,Rent,41850,Employed,151811,36,4.47,703,0.33,69146,5,0,Debt consolidation,4782.47,Medium
+25450,33,Female,Master,Widowed,1,Rent,50523,Employed,199113,36,3.86,702,0.31,189421,4,0,Debt consolidation,6171.4,Medium
+30648,33,Male,Bachelor,Widowed,0,Own,57927,Employed,143565,48,6.57,745,0.31,187508,5,1,Education,3776.96,Medium
+30630,58,Male,PhD,Widowed,1,Own,80691,Self-Employed,218217,60,4.07,796,0.36,15250,2,1,Car purchase,4377.07,High
+59220,54,Female,High School,Single,5,Rent,55056,Employed,239865,36,5.8,725,0.38,162217,2,0,Medical expenses,7822.26,High
+33565,54,Male,Bachelor,Married,0,Rent,75324,Employed,294776,36,4.7,784,0.22,78456,3,0,Home improvement,9342.76,Low
+15769,47,Female,Bachelor,Married,1,Rent,12421,Unemployed,59363,48,6.6,684,0.22,94369,4,0,Car purchase,1563.23,High
+54260,21,Male,High School,Single,5,Rent,0,Unemployed,92270,36,6.79,690,0.32,31661,2,1,Debt consolidation,3085.15,High
+67537,54,Female,High School,Single,5,Rent,80502,Self-Employed,249364,60,3.58,782,0.33,86582,3,0,Debt consolidation,4900,Medium
+81535,29,Female,Master,Widowed,4,Rent,27879,Employed,87876,60,6.11,652,0.26,132912,1,1,Education,1912.04,High
+13440,22,Male,High School,Divorced,1,Own,50862,Self-Employed,189519,36,4.81,733,0.26,49310,4,1,Medical expenses,6024.07,Medium
+26114,35,Female,Bachelor,Divorced,4,Rent,62109,Self-Employed,112844,48,4.55,710,0.36,108389,1,0,Education,2778.78,High
+16951,46,Male,Bachelor,Widowed,4,Own,0,Unemployed,131841,60,7.77,683,0.24,26912,1,1,Debt consolidation,3051.02,High
+26044,45,Female,High School,Single,2,Own,12907,Unemployed,115332,36,5.58,674,0.34,59200,5,0,Education,3739.96,High
+45101,35,Male,High School,Married,5,Own,0,Unemployed,118383,60,6.23,692,0.35,116860,3,0,Debt consolidation,2587.66,High
+41813,46,Male,Master,Widowed,1,Rent,95503,Self-Employed,216020,36,5.31,752,0.36,86447,4,0,Car purchase,6956.44,High
+58977,38,Male,Bachelor,Widowed,1,Own,67808,Self-Employed,149009,48,3.96,746,0.2,32179,4,1,Car purchase,3596.08,Medium
+63895,37,Female,High School,Married,5,Rent,57911,Self-Employed,245775,60,5.5,711,0.37,82203,3,0,Education,5222.72,High
+89966,64,Male,Master,Single,2,Rent,75651,Self-Employed,203645,36,4.04,798,0.36,60942,5,1,Medical expenses,6342.41,High
+51297,65,Male,PhD,Married,1,Rent,46198,Employed,219208,60,5.33,750,0.22,22669,5,0,Home improvement,4627.12,Low
+87767,25,Male,PhD,Married,1,Own,0,Unemployed,55139,48,7.27,696,0.22,31984,5,1,Car purchase,1482.78,High
+61031,26,Female,PhD,Single,0,Rent,38440,Employed,53482,36,5.93,671,0.36,39363,5,0,Medical expenses,1749.9,High
+78664,20,Male,PhD,Divorced,3,Own,53896,Self-Employed,174356,60,3.6,746,0.38,10805,5,0,Education,3429,High
+58222,59,Female,Bachelor,Single,0,Own,0,Unemployed,118938,60,6.86,668,0.22,86609,2,0,Education,2662.23,High
+79453,50,Female,High School,Married,3,Rent,93408,Employed,339518,36,7.71,788,0.32,48766,1,0,Education,11612.46,Medium
+46047,41,Female,PhD,Single,0,Own,72787,Employed,345563,60,4.47,783,0.31,21233,3,0,Car purchase,7046.61,Medium
+41149,51,Female,PhD,Widowed,5,Rent,0,Unemployed,147824,36,5.13,651,0.39,60577,1,0,Car purchase,4738.17,High
+61195,45,Male,High School,Widowed,1,Own,60498,Employed,155798,36,7.76,749,0.24,99268,3,0,Education,5335.22,Medium
+76725,55,Male,PhD,Single,3,Own,110007,Self-Employed,297160,60,7.51,789,0.24,147492,3,1,Debt consolidation,6812.39,Medium
+25181,35,Female,High School,Widowed,1,Own,57779,Self-Employed,225013,60,7.56,747,0.38,45781,4,0,Home improvement,5167.8,High
+40637,61,Female,High School,Single,0,Own,105292,Self-Employed,331919,36,6.03,753,0.3,157970,5,0,Car purchase,10887.87,Low
+47455,56,Male,High School,Widowed,2,Rent,109559,Self-Employed,306722,60,5.86,790,0.28,173704,5,1,Car purchase,6609.86,Medium
