@@ -71,7 +71,7 @@ lend-wise/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/lend-wise.git
+git clone https://github.com/nithinsankarbahunadam/Lend-Wise.git
 cd lend-wise
 
 # 2. Create a virtual environment
