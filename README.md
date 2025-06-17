@@ -33,7 +33,21 @@ Lend-Wise is a full-stack machine learning web application designed to assist pe
 
 ## 🏗️ Project Structure
 
-<pre><code>```text lend-wise/ ├── app.py # Main Flask application ├── requirements.txt # Python dependencies ├── loan_one_model.pkl # Risk model ├── loan_second_model.joblib # Grade model ├── loan_one_model_scaler.pkl # Scaler for risk model ├── loan_second_model_scaler.joblib # Scaler for grade model ├── templates/ │ ├── index.html # User input form │ └── result.html # Prediction results page ├── static/ # CSS, JS, assets ├── rsa_key.pem # 🔒 Private key create your own ├── .gitignore # Files to exclude from GitHub └── README.md # This file ``` </code></pre>
+<pre><code>```
+  lend-wise/ 
+  ├── app.py # Main Flask application 
+  ├── requirements.txt # Python dependencies 
+  ├── loan_one_model.pkl # Risk model 
+  ├── loan_second_model.joblib # Grade model 
+  ├── loan_one_model_scaler.pkl # Scaler for risk model 
+  ├── loan_second_model_scaler.joblib # Scaler for grade model 
+  ├── templates/ 
+  │ ├── index.html # User input form 
+  │ └── result.html # Prediction results page 
+  ├── static/ # CSS, JS, assets 
+  ├── rsa_key.pem # 🔒 Private key create your own 
+  ├── .gitignore # Files to exclude from GitHub 
+  └── README.md # This file ``` </code></pre>
 
 ## 📈 How It Works
 
