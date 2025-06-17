@@ -43,8 +43,8 @@ lend-wise/
 ├── templates/
 │ ├── index.html # User input form
 │ └── result.html # Prediction results page
-├── static/ # (Optional) CSS, JS, assets
-├── rsa_key.pem # 🔒 Private key (DO NOT COMMIT)
+├── static/ # CSS, JS, assets
+├── rsa_key.pem # 🔒 Private key create your own
 ├── .gitignore # Files to exclude from GitHub
 └── README.md # This file
 
